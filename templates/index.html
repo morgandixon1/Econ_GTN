@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Real-time Map and Graph</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+<body>
+  <button id="retrain-button">Retrain Model</button>
+    <div id="map" style="height: 600px;"></div>
+    <svg id="graph" width="400" height="400"></svg>
+
+    <script>
+      var edgesData = [];
+      var edgeLayers = {};
+      var map;
+      const socket = io.connect('http://' + document.domain + ':' + location.port);
+
+      fetch('/graph_and_map')
+          .then(response => response.json())
+          .then(data => {
+              console.log("Received initial data from backend:", data);
+
+              edgesData = data.edgesData;
+              var graphData = data.graph_data;
+
+              map = L.map('map').setView([47.6588, -117.4260], 8);
+              L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+
+              data.mapData.coords_list.forEach(function(coord) {
+                  L.marker([coord[0][0], coord[0][1]]).addTo(map).bindPopup(coord[1]);
+              });
+
+                // Render the graph using D3.js
+                const svg = d3.select("#graph");
+                const nodes = svg.selectAll("circle")
+                    .data(graphData.nodes)
+                    .enter()
+                    .append("circle")
+                    .attr("cx", (d, i) => i * 100 + 50)
+                    .attr("cy", 200)
+                    .attr("r", 20);
+
+                const edges = svg.selectAll("line")
+                    .data(graphData.links)
+                    .enter()
+                    .append("line")
+                    .attr("x1", d => d.source * 100 + 50)
+                    .attr("y1", 200)
+                    .attr("x2", d => d.target * 100 + 50)
+                    .attr("y2", 200)
+                    .attr("stroke-width", 7)
+                    .attr("stroke", "black");
+
+                // Add edges to the map
+                data.edgesData.forEach(function(edge) {
+                    createInteractiveEdge(edge);  // Changed this line
+                });
+            });
+
+            function createInteractiveEdge(edge) {
+                  var polyline = L.polyline([edge.coords1, edge.coords2], {color: 'blue', weight: 7}).addTo(map);
+                  attachEdgeDeletionListener(polyline, edge);
+                  var edgeKey = edge.node1 + "-" + edge.node2;
+                  edgeLayers[edgeKey] = polyline;
+              }
+
+              function attachEdgeDeletionListener(polyline, edge) {
+                  polyline.on('click', function(e) {
+                      if (e.originalEvent.shiftKey) {
+                          console.log(`Edge deleted between ${edge.node1} and ${edge.node2}`);
+                          removeEdge(edge);
+                          socket.emit('cut_edge', edge);
+                      }
+                  });
+              }
+
+              function removeEdge(edge) {
+                  var edgeKey = edge.node1 + "-" + edge.node2;
+                  var edgeLayer = edgeLayers[edgeKey];
+                  if (edgeLayer) {
+                      map.removeLayer(edgeLayer);
+                      delete edgeLayers[edgeKey];
+                      console.log("Emitting cut_edge event with data:", edge);
+                      socket.emit('request_retrain', edge);
+                  }
+              }
+
+            socket.on('edge_cut', function(data) {
+                var edge = edgesData.find(e => e.node1 === data.node1 && e.node2 === data.node2);
+                if (edge) {
+                    removeEdge(edge);
+                }
+            });
+
+            document.getElementById("retrain-button").addEventListener("click", function() {
+              socket.emit('request_retrain');  // Emitting a custom event to request model retraining
+          });
+        socket.on('draw_edge', function(data) {
+            createInteractiveEdge(data);  // Changed this line
+        });
+        socket.on('new_edge', function(data) {
+            var edgeData = data.edge_data;
+            var polyline = L.polyline([edgeData.coords1, edgeData.coords2], {
+                color: 'blue',
+                weight: 15
+            });
+            polyline.addTo(map);
+        });
+        // Listen for the retrain_status event from the server
+        socket.on('retrain_status', function(data) {
+            if (data.status === 'complete') {
+                // Reload the page when retraining is complete
+                location.reload();
+            }
+        });
+
+        // Handle real-time updates for the graph
+        socket.on('graph_update', function(data) {
+            const svg = d3.select("#graph");
+            const edge = svg.append("line")
+                .attr("x1", data.edge[0] * 100 + 50)
+                .attr("y1", 200)
+                .attr("x2", data.edge[1] * 100 + 50)
+                .attr("y2", 200)
+                .attr("stroke-width", 6)
+                .attr("stroke", data.confidence > 0.5 ? "green" : "red");
+        });
+
+        var shiftDown = false;
+        var dragging = false;
+        var dragPath = [];
+
+        document.addEventListener('keydown', function(event) {
+            if (event.key === "Shift") {
+                shiftDown = true;
+            }
+        });
+
+        document.addEventListener('keyup', function(event) {
+            if (event.key === "Shift") {
+                shiftDown = false;
+            }
+        });
+
+        map.on('mousedown', function(e) {
+            if (shiftDown) {
+                dragging = true;
+                dragPath = [e.latlng];
+            }
+        });
+
+        map.on('mousemove', function(e) {
+            if (dragging && shiftDown) {
+                dragPath.push(e.latlng);
+
+                // Now check for intersections with existing edges
+                edgesData.forEach(function(edge) {
+                    var edgeLine = [edge.coords1, edge.coords2];
+                    for (let i = 1; i < dragPath.length; i++) {
+                        var dragLine = [dragPath[i-1], dragPath[i]];
+                        if (linesIntersect(dragLine, edgeLine)) {
+                            // Cut the edge
+                            removeEdge(edge);
+                            socket.emit('cut_edge', edge);
+                        }
+                    }
+                });
+            }
+        });
+
+        map.on('mouseup', function(e) {
+            dragging = false;
+            dragPath = [];
+        });
+
+    function linesIntersect(line1, line2) {
+        var x1 = line1[0].lat, y1 = line1[0].lng;
+        var x2 = line1[1].lat, y2 = line1[1].lng;
+        var x3 = line2[0].lat, y3 = line2[0].lng;
+        var x4 = line2[1].lat, y4 = line2[1].lng;
+
+        var denom = (y4 - y3) * (x2 - x1) - (x4 - x3) * (y2 - y1);
+        if (denom === 0) {
+            return false;  // Lines are parallel
+        }
+
+        var ua = ((x4 - x3) * (y1 - y3) - (y4 - y3) * (x1 - x3)) / denom;
+        var ub = ((x2 - x1) * (y1 - y3) - (y2 - y1) * (x1 - x3)) / denom;
+
+        if (ua >= 0 && ua <= 1 && ub >= 0 && ub <= 1) {
+            return true;
+        }
+
+        return false;
+    }
+    </script>
+</body>
+</html>
