@@ -433,7 +433,7 @@ def handle_request_retrain(data=None):
 if __name__ == '__main__':
     print("Application starting")
     parser = argparse.ArgumentParser()
-    parser.add_argument('--api_key', default='AIzaSyCAClOE628GL35IFV53g55PTw4_irf6PRs', help='API Key')
+    parser.add_argument('--api_key', default='KEY HERE', help='API Key')
     parser.add_argument('--radius', type=int, default=1000, help='Radius')
     parser.add_argument('--business_type', default='restaurant', help='Type of business')
     parser.add_argument('--limit', type=int, default=5, help='Limit')
