@@ -1,0 +1,948 @@
+NAICS,Description,"2023 Jobs","2022 - 2023 Change","2022 - 2023 % Change","Avg. Earnings Per Job","2022 GRP Earnings"
+111000,"Crop Production",13.1652068743,1.52555719199,0.131065558983,56505.8096527,819618.290418
+112000,"Animal Production",19.2241882979,1.35660048259,0.0759252170247,41197.8713424,1060784.87376
+113110,"Timber Tract Operations",1.82907748877,-0.0165053290668,-0.00894315275765,125479.188449,233593.709215
+113210,"Forest Nurseries and Gathering of Forest Products",1.08549456966,0.124291158779,0.129307862801,41815.3790177,40311.2857095
+113310,Logging,9.99386048563,0.711539393269,0.0766553307292,63384.2002041,593416.752547
+114111,"Finfish Fishing",0.0241484863776,0.0032909147215,0.157780338755,131571.880178,2744.40069755
+114112,"Shellfish Fishing",0,0,0,0,0
+114119,"Other Marine Fishing",0.00550369566706,0.0029122925828,1.12382847751,49408.9257243,135.713159303
+114210,"Hunting and Trapping",1.69938876385E-5,-8.03308632825E-7,-0.0451368081005,60837.5551694,1.08311842726
+115111,"Cotton Ginning",0,0,0,0,0
+115112,"Soil Preparation, Planting, and Cultivating",5.40283598524,0.866251331143,0.190947904027,65574.1958836,303438.363577
+115113,"Crop Harvesting, Primarily by Machine",0,0,0,0,0
+115114,"Postharvest Crop Activities (except Cotton Ginning)",0,0,0,0,0
+115115,"Farm Labor Contractors and Crew Leaders",5.39437395407,0.561848733762,0.116264004459,47114.2920683,228273.609015
+115116,"Farm Management Services",0,0,0,0,0
+115210,"Support Activities for Animal Production",7.68180971173,0.765733762216,0.110717951597,51490.6732708,384013.105076
+115310,"Support Activities for Forestry",7.68838914924,0.733307263436,0.105434741888,58895.4563265,427222.539886
+211120,"Crude Petroleum Extraction",0,0,0,0,0
+211130,"Natural Gas Extraction",0,0,0,0,0
+212114,"Surface Coal Mining",0,0,0,0,0
+212115,"Underground Coal Mining",0,0,0,0,0
+212210,"Iron Ore Mining",0,0,0,0,0
+212220,"Gold Ore and Silver Ore Mining",0,0,0,0,0
+212230,"Copper, Nickel, Lead, and Zinc Mining",0,0,0,0,0
+212290,"Other Metal Ore Mining",0,0,0,0,0
+212311,"Dimension Stone Mining and Quarrying",0,0,0,0,0
+212312,"Crushed and Broken Limestone Mining and Quarrying",0,0,0,0,0
+212313,"Crushed and Broken Granite Mining and Quarrying",0,0,0,0,0
+212319,"Other Crushed and Broken Stone Mining and Quarrying",0,0,0,0,0
+212321,"Construction Sand and Gravel Mining",0,0,0,0,0
+212322,"Industrial Sand Mining",0,0,0,0,0
+212323,"Kaolin, Clay, and Ceramic and Refractory Minerals Mining",0,0,0,0,0
+212390,"Other Nonmetallic Mineral Mining and Quarrying",0,0,0,0,0
+213111,"Drilling Oil and Gas Wells",0,0,0,0,0
+213112,"Support Activities for Oil and Gas Operations",0,0,0,0,0
+213113,"Support Activities for Coal Mining",0,0,0,0,0
+213114,"Support Activities for Metal Mining",0,0,0,0,0
+213115,"Support Activities for Nonmetallic Minerals (except Fuels) Mining",0,0,0,0,0
+221111,"Hydroelectric Power Generation",4.93433480596E-5,2.07713600699E-5,0.726983368371,135332.598795,3.8770695646
+221112,"Fossil Fuel Electric Power Generation",0,0,0,0,0
+221113,"Nuclear Electric Power Generation",0,0,0,0,0
+221114,"Solar Electric Power Generation",3.82952314115E-5,1.81780347213E-5,0.903606750047,127682.762187,3.75019611571
+221115,"Wind Electric Power Generation",0,0,0,0,0
+221116,"Geothermal Electric Power Generation",0,0,0,0,0
+221117,"Biomass Electric Power Generation",0,0,0,0,0
+221118,"Other Electric Power Generation",0,0,0,0,0
+221121,"Electric Bulk Power Transmission and Control",0,0,0,0,0
+221122,"Electric Power Distribution",17.0526314229,0.519075539331,0.031395275341,154104.57366,2556221.49011
+221210,"Natural Gas Distribution",3.83742303905E-5,1.76880865333E-5,0.8550692993,38449.7514733,0.868931535647
+221310,"Water Supply and Irrigation Systems",13.5195628198,0.454829354025,0.0348135195576,47713.4687206,626312.158103
+221320,"Sewage Treatment Facilities",1.50096442997E-5,-3.73189382712E-6,-0.19912420218,26673.9665639,0.56689501186
+221330,"Steam and Air-Conditioning Supply",0,0,0,0,0
+236115,"New Single-Family Housing Construction (except For-Sale Builders)",13.5736992764,0.780762668024,0.0610307618902,81687.3544635,1097230.6482
+236116,"New Multifamily Housing Construction (except For-Sale Builders)",4.94194026739,0.324268121377,0.0702232880818,43085.5853909,211131.058008
+236117,"New Housing For-Sale Builders",0.331409858435,0.0145652121861,0.04596957013,50464.0955321,24251.6047428
+236118,"Residential Remodelers",0.00070576490711,3.17989520699E-5,0.0471818373497,60268.9807837,41.5685974881
+236210,"Industrial Building Construction",0.00063824611735,1.17987869377E-5,0.0188344436394,97446.8524086,63.6657367406
+236220,"Commercial and Institutional Building Construction",0.00062367640227,-1.0395575407E-7,-0.000166654420475,79917.7179668,52.3573628927
+237110,"Water and Sewer Line and Related Structures Construction",0.000636375414508,-3.5773478439E-6,-0.0055900185988,84360.4009045,55.3445442324
+237120,"Oil and Gas Pipeline and Related Structures Construction",0.000951418169725,-1.22511286934E-5,-0.0127130009366,110579.658798,117.548348139
+237130,"Power and Communication Line and Related Structures Construction",0.00125229738336,-2.54422874535E-6,-0.00202752978608,120633.895176,160.816931885
+237210,"Land Subdivision",0.00152548928031,2.15549858547E-5,0.0143323986521,92214.6837006,144.856760814
+237310,"Highway, Street, and Bridge Construction",0.0383588568492,0.00108744359568,0.0291763445696,103181.317976,3846.87603576
+237990,"Other Heavy and Civil Engineering Construction",66.3206542357,2.98417028208,0.0471161342689,59309.4511951,5780566.86341
+238110,"Poured Concrete Foundation and Structure Contractors",0.0016671579215,7.09014896102E-5,0.044417355629,61644.1079408,99.0031428811
+238120,"Structural Steel and Precast Concrete Contractors",0.00200638526887,-6.47031110391E-5,-0.0312411153801,80972.8015012,171.346397089
+238130,"Framing Contractors",0.00308614079768,6.31691390847E-5,0.0208963715902,61634.1498324,188.235307401
+238140,"Masonry Contractors",0.00328107406841,0.000104074341585,0.0327586876092,45928.1199004,146.712277782
+238150,"Glass and Glazing Contractors",0.0694290807977,-0.0793798490719,-0.533434714848,73671.7842039,11221.4520325
+238160,"Roofing Contractors",0.39916584309,-0.0301280407005,-0.0701804564148,60863.8205686,26325.5017567
+238170,"Siding Contractors",0.482524928556,-0.00798725997722,-0.0162835096944,53798.6111985,26500.7431311
+238190,"Other Foundation, Structure, and Building Exterior Contractors",0.494122889394,0.000607068639844,0.00123008952158,60009.727273,30634.2230837
+238210,"Electrical Contractors and Other Wiring Installation Contractors",0.557224117074,-0.00497655403964,-0.00885191764317,65897.4430037,38423.0270206
+238220,"Plumbing, Heating, and Air-Conditioning Contractors",0.101009541848,-0.0172464531504,-0.145839990189,70616.4536194,8493.79369611
+238290,"Other Building Equipment Contractors",0.0758711607635,0.000348447019963,0.00461380428074,64456.9619934,5086.38058186
+238310,"Drywall and Insulation Contractors",0.139799858333,-0.0549762105662,-0.28225341479,56544.3713807,11212.6456865
+238320,"Painting and Wall Covering Contractors",0.299892939764,-0.0248789724902,-0.0766044462328,47763.9863835,15681.0033106
+238330,"Flooring Contractors",0.564526048872,0.00359437863203,0.00640787251412,54706.8868583,31534.088262
+238340,"Tile and Terrazzo Contractors",0.553081074275,-0.0164957581757,-0.028961427565,58751.0874285,33799.7006363
+238350,"Finish Carpentry Contractors",0.671375040734,0.0158517143238,0.0241817700228,57117.0405122,38183.4026293
+238390,"Other Building Finishing Contractors",0.691408405581,0.0210780453864,0.0314442648552,73177.3006449,52001.8811263
+238910,"Site Preparation Contractors",0.639444407929,0.0110965404414,0.0176598680692,73795.3873842,46711.0256669
+238990,"All Other Specialty Trade Contractors",0.467161554489,0.00263496117918,0.00567235808913,58249.962157,28511.0636755
+311111,"Dog and Cat Food Manufacturing",0,0,0,0,0
+311119,"Other Animal Food Manufacturing",0,0,0,0,0
+311211,"Flour Milling",0,0,0,0,0
+311212,"Rice Milling",0,0,0,0,0
+311213,"Malt Manufacturing",0,0,0,0,0
+311221,"Wet Corn Milling",0,0,0,0,0
+311224,"Soybean and Other Oilseed Processing",0,0,0,0,0
+311225,"Fats and Oils Refining and Blending",0,0,0,0,0
+311230,"Breakfast Cereal Manufacturing",0,0,0,0,0
+311313,"Beet Sugar Manufacturing",0,0,0,0,0
+311314,"Cane Sugar Manufacturing",0,0,0,0,0
+311340,"Nonchocolate Confectionery Manufacturing",0.00306373424455,-0.00165090616237,-0.35016587054,153406.441621,752.575113554
+311351,"Chocolate and Confectionery Manufacturing from Cacao Beans",0,0,0,0,0
+311352,"Confectionery Manufacturing from Purchased Chocolate",0,0,0,0,0
+311411,"Frozen Fruit, Juice, and Vegetable Manufacturing",0,0,0,0,0
+311412,"Frozen Specialty Food Manufacturing",0.0029428106958,-0.00045903412916,-0.134936821866,65969.9570118,228.042808974
+311421,"Fruit and Vegetable Canning",0,0,0,0,0
+311422,"Specialty Canning",0,0,0,0,44.7672166768
+311423,"Dried and Dehydrated Food Manufacturing",0.00264813626618,-0.000601215707583,-0.185026341387,178238.952284,581.290993787
+311511,"Fluid Milk Manufacturing",0,0,0,0,0
+311512,"Creamery Butter Manufacturing",0,0,0,0,0
+311513,"Cheese Manufacturing",0.00293492031846,-0.0024139039606,-0.451296179247,67422.085833,362.280871876
+311514,"Dry, Condensed, and Evaporated Dairy Product Manufacturing",0,0,0,0,0
+311520,"Ice Cream and Frozen Dessert Manufacturing",0.00273657285968,-0.00108929771487,-0.284718913943,73885.447302,282.67615872
+311611,"Animal (except Poultry) Slaughtering",0.00270764536699,-0.000733635278875,-0.213186704129,64888.2445909,224.190596171
+311612,"Meat Processed from Carcasses",0.00272626285323,-0.0014185301115,-0.342243900617,109330.282034,454.502175986
+311613,"Rendering and Meat Byproduct Processing",0,0,0,0,0
+311615,"Poultry Processing",0.00276530038349,-0.00143645301595,-0.341869900347,64845.4793432,324.488918139
+311710,"Seafood Product Preparation and Packaging",0,0,0,0,0
+311811,"Retail Bakeries",0.00275515760328,-0.00149086005119,-0.351119607244,21550.2033433,91.5770748182
+311812,"Commercial Bakeries",0.00276604006926,-0.00158256448635,-0.363924671953,25755.0880824,113.127977842
+311813,"Frozen Cakes, Pies, and Other Pastries Manufacturing",0,0,0,0,0
+311821,"Cookie and Cracker Manufacturing",0,0,0,0,0
+311824,"Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour",0.00277476752676,-0.00172445920123,-0.383279017814,38800.2538174,174.571139028
+311830,"Tortilla Manufacturing",0,0,0,0,0
+311911,"Roasted Nuts and Peanut Butter Manufacturing",0,0,0,0,0
+311919,"Other Snack Food Manufacturing",0.00278099226404,-0.00187579628357,-0.402808988295,32710.8980899,155.885995118
+311920,"Coffee and Tea Manufacturing",0.00278229418083,-0.00147045947854,-0.345766436601,4557.01509955,22.46944095
+311930,"Flavoring Syrup and Concentrate Manufacturing",0,0,0,0,0
+311941,"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing",0.0027790540723,-0.00206573994718,-0.426383441458,78912.8025387,383.973889264
+311942,"Spice and Extract Manufacturing",0,0,0,0,0
+311991,"Perishable Prepared Food Manufacturing",0.00277150757614,-0.00200271127505,-0.419484597894,59054.5100941,298.273434983
+311999,"All Other Miscellaneous Food Manufacturing",0.00276312665938,-0.00217498361394,-0.440448571125,29598.6552143,154.001073069
+312111,"Soft Drink Manufacturing",0.00275466210185,-0.00219573689044,-0.443547458268,125608.106822,624.11910625
+312112,"Bottled Water Manufacturing",0.0027411244918,-0.00221034171299,-0.446401453947,40859.2020527,265.626463198
+312113,"Ice Manufacturing",0,0,0,0,0
+312120,Breweries,0.00273048981341,-0.00220354703368,-0.446601252072,28251.6521052,146.201811174
+312130,Wineries,0.00273974067158,-0.00214522735223,-0.439148698983,50899.8645649,257.681412281
+312140,Distilleries,0.00274612117847,-0.00199033924177,-0.42021658901,56559.5337875,290.06803341
+312230,"Tobacco Manufacturing",0.00274953522382,-0.00195439625557,-0.415481446558,40229.6098848,189.237328341
+313110,"Fiber, Yarn, and Thread Mills",0.00274973804824,-0.00205303420451,-0.427468573663,76220.6456749,366.667908892
+313210,"Broadwoven Fabric Mills",0,0,0,0,0
+313220,"Narrow Fabric Mills and Schiffli Machine Embroidery",0,0,0,0,0
+313230,"Nonwoven Fabric Mills",0,0,0,0,0
+313240,"Knit Fabric Mills",0,0,0,0,1.05977031682
+313310,"Textile and Fabric Finishing Mills",0,0,0,0,0
+313320,"Fabric Coating Mills",0,0,0,0,0
+314110,"Carpet and Rug Mills",0,0,0,0,0
+314120,"Curtain and Linen Mills",0,0,0,0,0
+314910,"Textile Bag and Canvas Mills",0.00274634396632,-0.0021004726329,-0.433371593478,42582.4134615,212.291521722
+314994,"Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills",0.00273923303521,-0.00186346709968,-0.404863894034,29273.9739785,135.295718653
+314999,"All Other Miscellaneous Textile Product Mills",0.00272870864992,-0.00213712185063,-0.439210089704,31576.0774539,154.158472066
+315120,"Apparel Knitting Mills",0,0,0,0,0
+315210,"Cut and Sew Apparel Contractors",0.23099432668,-0.0317647924224,-0.120889400646,2537.56079677,8259.84352504
+315250,"Cut and Sew Apparel Manufacturing (except Contractors)",0,0,0,0,7487.65575857
+315990,"Apparel Accessories and Other Apparel Manufacturing",0.231874116282,-0.0299351809866,-0.114339640719,3444.92917079,4295.39269404
+316110,"Leather and Hide Tanning and Finishing",0,0,0,0,0
+316210,"Footwear Manufacturing",0,0,0,0,0
+316990,"Other Leather and Allied Product Manufacturing",0.00499042913876,-0.00190934553993,-0.27672578147,39393.9433417,510.986468155
+321113,Sawmills,0.00270271304309,-0.00192935357447,-0.416521119787,98225.3144002,455.322386563
+321114,"Wood Preservation",0.00271050551753,-0.00179750938889,-0.398736345421,43429.3473018,198.182254233
+321211,"Hardwood Veneer and Plywood Manufacturing",0,0,0,0,0
+321212,"Softwood Veneer and Plywood Manufacturing",0.00271486223771,-0.0017244044689,-0.388443538733,67693.6751964,300.510278547
+321215,"Engineered Wood Member Manufacturing",0.00271527797471,-0.00177424156436,-0.395196311971,59118.3079542,276.477280028
+321219,"Reconstituted Wood Product Manufacturing",0.00271117230451,-0.00181045798936,-0.40039938511,102205.364314,462.13487148
+321911,"Wood Window and Door Manufacturing",0.00270238872652,-0.0018967457855,-0.412413635771,48698.4302355,226.36435704
+321912,"Cut Stock, Resawing Lumber, and Planing",0.00268944226381,-0.00190613404488,-0.414775844604,140604.393346,646.158218959
+321918,"Other Millwork (including Flooring)",0.00267354276856,-0.001892885304,-0.41452208902,80045.6179736,366.234428919
+321920,"Wood Container and Pallet Manufacturing",0.00265882991495,-0.00184775275009,-0.410011950834,46860.7176221,211.181697707
+321991,"Manufactured Home (Mobile Home) Manufacturing",0.00266355439219,-0.00177383617278,-0.399747587419,58380.2641021,259.056033107
+321992,"Prefabricated Wood Building Manufacturing",0.00267219888777,-0.00167686406163,-0.385569048123,63010.0715504,276.575946053
+321999,"All Other Miscellaneous Wood Product Manufacturing",0.00267760535617,-0.00154174102827,-0.365398070649,46886.2348222,204.220884692
+322110,"Pulp Mills",0,0,0,0,0
+322120,"Paper Mills",0,0,0,0,0
+322130,"Paperboard Mills",0,0,0,0,0
+322211,"Corrugated and Solid Fiber Box Manufacturing",0.00267966843763,-0.00135562824749,-0.335942646421,90804.3886656,380.507447314
+322212,"Folding Paperboard Box Manufacturing",0,0,0,0,0
+322219,"Other Paperboard Container Manufacturing",0,0,0,0,0
+322220,"Paper Bag and Coated and Treated Paper Manufacturing",0,0,0,0,0
+322230,"Stationery Product Manufacturing",0,0,0,0,0
+322291,"Sanitary Paper Product Manufacturing",0,0,0,0,0
+322299,"All Other Converted Paper Product Manufacturing",0,0,0,0,0
+323111,"Commercial Printing (except Screen and Books)",0.0026783962162,-0.00142282280205,-0.346926802914,46546.6800773,197.135588911
+323113,"Commercial Screen Printing",0.00267391840355,-0.00146776220201,-0.354388071364,37851.011868,161.924110725
+323117,"Books Printing",0.0026664792681,-0.00148828850602,-0.358212200281,38961.0329833,177.410142406
+323120,"Support Activities for Printing",0.00265638730961,-0.00147306603246,-0.356721800789,64383.5320389,372.27363711
+324110,"Petroleum Refineries",0,0,0,0,0
+324121,"Asphalt Paving Mixture and Block Manufacturing",0.00263785983621,-0.00141193476169,-0.348643549088,41430.3306672,167.784329325
+324122,"Asphalt Shingle and Coating Materials Manufacturing",0,0,0,0,0
+324191,"Petroleum Lubricating Oil and Grease Manufacturing",0,0,0,0,0
+324199,"All Other Petroleum and Coal Products Manufacturing",0,0,0,0,0
+325110,"Petrochemical Manufacturing",0,0,0,0,8935.00793535
+325120,"Industrial Gas Manufacturing",0,0,0,0,0
+325130,"Synthetic Dye and Pigment Manufacturing",0,0,0,0,0
+325180,"Other Basic Inorganic Chemical Manufacturing",0,0,0,0,0
+325193,"Ethyl Alcohol Manufacturing",0,0,0,0,0
+325194,"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing",0,0,0,0,0
+325199,"All Other Basic Organic Chemical Manufacturing",0.00262558364865,-0.00142047373143,-0.351076022407,86218.9071901,380.759250218
+325211,"Plastics Material and Resin Manufacturing",0,0,0,0,0
+325212,"Synthetic Rubber Manufacturing",0,0,0,0,0
+325220,"Artificial and Synthetic Fibers and Filaments Manufacturing",0,0,0,0,0
+325311,"Nitrogenous Fertilizer Manufacturing",0,0,0,0,0
+325312,"Phosphatic Fertilizer Manufacturing",0,0,0,0,0
+325314,"Fertilizer (Mixing Only) Manufacturing",0.00263556610135,-0.00132957643626,-0.33531617682,107730.003313,564.935497158
+325315,"Compost Manufacturing",0,0,0,0,0
+325320,"Pesticide and Other Agricultural Chemical Manufacturing",0,0,0,0,0
+325411,"Medicinal and Botanical Manufacturing",0.00264250391564,-0.00123615114282,-0.31870612988,101729.377881,397.783538592
+325412,"Pharmaceutical Preparation Manufacturing",0.00264614036828,-0.00113120047436,-0.29947005618,104341.214626,489.476327742
+325413,"In-Vitro Diagnostic Substance Manufacturing",0,0,0,0,0
+325414,"Biological Product (except Diagnostic) Manufacturing",0.00264628945528,-0.00099012559364,-0.272280688623,62318.4353826,457.091305814
+325510,"Paint and Coating Manufacturing",0.0220052946871,0.0184884543175,5.25712070338,97675.9327465,588.818643982
+325520,"Adhesive Manufacturing",0.0437997758036,0.0402740462146,11.4228970766,366863.373734,1293.46105188
+325611,"Soap and Other Detergent Manufacturing",0.0563569809039,0.0528040135433,14.8619472637,59565.7366653,257.413697961
+325612,"Polish and Other Sanitation Good Manufacturing",0,0,0,0,0
+325613,"Surface Active Agent Manufacturing",0,0,0,0,184.03767835
+325620,"Toilet Preparation Manufacturing",0,0,0,0,0
+325910,"Printing Ink Manufacturing",0,0,0,0,0
+325920,"Explosives Manufacturing",0,0,0,0,0
+325991,"Custom Compounding of Purchased Resins",0,0,0,0,0
+325992,"Photographic Film, Paper, Plate, and Chemical Manufacturing",0,0,0,0,0
+325998,"All Other Miscellaneous Chemical Product and Preparation Manufacturing",0,0,0,0,0
+326111,"Plastics Bag and Pouch Manufacturing",0,0,0,0,0
+326112,"Plastics Packaging Film and Sheet (including Laminated) Manufacturing",0,0,0,0,0
+326113,"Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing",0,0,0,0,0
+326121,"Unlaminated Plastics Profile Shape Manufacturing",0,0,0,0,0
+326122,"Plastics Pipe and Pipe Fitting Manufacturing",0.0620941766599,0.0585376075987,16.4590105217,56419.1529805,203.366533433
+326130,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",0.0640682032955,0.0605464275387,17.1920166756,67618.1724471,266.820529433
+326140,"Polystyrene Foam Product Manufacturing",0.0463936769662,0.0429957939266,12.6537003849,52856.8548992,179.601410791
+326150,"Urethane and Other Foam Product (except Polystyrene) Manufacturing",0,0,0,0,0
+326160,"Plastics Bottle Manufacturing",0,0,0,0,0
+326191,"Plastics Plumbing Fixture Manufacturing",0,0,0,0,0
+326199,"All Other Plastics Product Manufacturing",0.0625109197379,0.0591146139962,17.4055631299,61269.6443674,210.293054828
+326211,"Tire Manufacturing (except Retreading)",0,0,0,0,0
+326212,"Tire Retreading",0,0,0,0,0
+326220,"Rubber and Plastics Hoses and Belting Manufacturing",0.0487200979445,0.0454320571793,13.8173643286,70933.8929545,233.233531665
+326291,"Rubber Product Manufacturing for Mechanical Use",0.0498928823952,0.0466841809196,14.5492440707,48650.1948834,287.624489285
+326299,"All Other Rubber Product Manufacturing",0,0,0,0,0
+327110,"Pottery, Ceramics, and Plumbing Fixture Manufacturing",0,0,0,0,0
+327120,"Clay Building Material and Refractories Manufacturing",0,0,0,0,0
+327211,"Flat Glass Manufacturing",0,0,0,0,0
+327212,"Other Pressed and Blown Glass and Glassware Manufacturing",0,0,0,0,0
+327213,"Glass Container Manufacturing",0,0,0,0,0
+327215,"Glass Product Manufacturing Made of Purchased Glass",0,0,0,0,0
+327310,"Cement Manufacturing",0.0511459894425,0.0412971720178,4.19310971428,79737.1375103,785.31650931
+327320,"Ready-Mix Concrete Manufacturing",0.0518778477056,0.027955780409,1.16861891836,87612.0488265,2097.38408718
+327331,"Concrete Block and Brick Manufacturing",0,0,0,0,0
+327332,"Concrete Pipe Manufacturing",0,0,0,0,0
+327390,"Other Concrete Product Manufacturing",0.051755392896,0.0190379014036,0.581887563356,59076.4862205,2041.76797082
+327410,"Lime Manufacturing",0,0,0,0,0
+327420,"Gypsum Product Manufacturing",0,0,0,0,0
+327910,"Abrasive Product Manufacturing",0.0352452325508,0.00641111584384,0.222344797623,140684.657394,4056.51783017
+327991,"Cut Stone and Stone Product Manufacturing",0.0511367534859,0.0184668118049,0.565253895623,42184.7365021,1429.86987553
+327992,"Ground or Treated Mineral and Earth Manufacturing",0,0,0,0,0
+327993,"Mineral Wool Manufacturing",0,0,0,0,0
+327999,"All Other Miscellaneous Nonmetallic Mineral Product Manufacturing",0.0503047176482,0.015831701292,0.459249087124,70738.2789131,3358.57472391
+331110,"Iron and Steel Mills and Ferroalloy Manufacturing",0.0146858221898,0.00325289734228,0.284520136855,149530.330945,2037.28560584
+331210,"Iron and Steel Pipe and Tube Manufacturing from Purchased Steel",0.0454169163732,0.00966139006606,0.270206904048,59813.7857186,2318.67549871
+331221,"Rolled Steel Shape Manufacturing",0,0,0,0,0
+331222,"Steel Wire Drawing",0,0,0,0,0
+331313,"Alumina Refining and Primary Aluminum Production",0.0455806665571,0.0108888610194,0.313874151278,77269.7711483,3132.43481417
+331314,"Secondary Smelting and Alloying of Aluminum",0,0,0,0,0
+331315,"Aluminum Sheet, Plate, and Foil Manufacturing",0,0,0,0,0
+331318,"Other Aluminum Rolling, Drawing, and Extruding",0,0,0,0,0
+331410,"Nonferrous Metal (except Aluminum) Smelting and Refining",0.0457157220145,0.0122084920378,0.364353963197,81392.7929448,2727.24703165
+331420,"Copper Rolling, Drawing, Extruding, and Alloying",0,0,0,0,0
+331491,"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding",0.0452358623386,0.0135515730612,0.427706392354,78463.8944388,11188.0032468
+331492,"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)",0.0435414917201,0.0143397452228,0.491057794235,60217.328862,1758.45117217
+331511,"Iron Foundries",0,0,0,0,0
+331512,"Steel Investment Foundries",0,0,0,0,0
+331513,"Steel Foundries (except Investment)",0,0,0,0,0
+331523,"Nonferrous Metal Die-Casting Foundries",0,0,0,0,0
+331524,"Aluminum Foundries (except Die-Casting)",0.037742998114,0.0125669850381,0.499165018712,76186.9392758,1918.08337942
+331529,"Other Nonferrous Metal Foundries (except Die-Casting)",0,0,0,0,0
+332111,"Iron and Steel Forging",0,0,0,0,0
+332112,"Nonferrous Forging",0,0,0,0,0
+332114,"Custom Roll Forming",0,0,0,0,0
+332117,"Powder Metallurgy Part Manufacturing",0,0,0,0,0
+332119,"Metal Crown, Closure, and Other Metal Stamping (except Automotive)",0.0306140511151,0.00502529754132,0.196386960656,64545.4729951,1651.63820277
+332215,"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing",0.202142918063,-0.102858496461,-0.33723940796,54966.0862968,16957.9616789
+332216,"Saw Blade and Handtool Manufacturing",0.00254355838567,0.000159432447317,0.0668724939202,108588.616735,275.962511638
+332311,"Prefabricated Metal Building and Component Manufacturing",0.00255219017748,0.000215122805311,0.0920481830661,88254.0665098,226.086412874
+332312,"Fabricated Structural Metal Manufacturing",0.0573979724519,0.00970955591686,0.203604074581,72838.7512935,3520.60578887
+332313,"Plate Work Manufacturing",0.0082291812229,0.00599804372915,2.68833442401,61993.6101251,139.606874517
+332321,"Metal Window and Door Manufacturing",0,0,0,0,0
+332322,"Sheet Metal Work Manufacturing",0.0268270899248,0.0243805914285,9.96550435873,101348.241416,250.5824862
+332323,"Ornamental and Architectural Metal Work Manufacturing",0.0244350004682,0.0220675749558,9.32133866132,54734.5645631,134.67913316
+332410,"Power Boiler and Heat Exchanger Manufacturing",0.0278399550579,0.0212884440938,3.24939456113,89907.0825146,589.027236842
+332420,"Metal Tank (Heavy Gauge) Manufacturing",0,0,0,0,0
+332431,"Metal Can Manufacturing",0,0,0,0,0
+332439,"Other Metal Container Manufacturing",0,0,0,0,0
+332510,"Hardware Manufacturing",0.0291094068849,0.0132182852965,0.83180316902,59531.4914191,987.761391121
+332613,"Spring Manufacturing",0.0298862369271,0.00823775454819,0.380523419795,60671.4061876,1313.44386776
+332618,"Other Fabricated Wire Product Manufacturing",0,0,0,0,0
+332710,"Machine Shops",0.0324061715015,0.00638607935596,0.245428775588,62576.0880468,1641.95105007
+332721,"Precision Turned Product Manufacturing",0.0333828993372,0.00560243008342,0.201667942764,61954.981035,1966.91790883
+332722,"Bolt, Nut, Screw, Rivet, and Washer Manufacturing",0,0,0,0,0
+332811,"Metal Heat Treating",0,0,0,0,0
+332812,"Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",0.0333174366741,0.00540145853226,0.193489853904,37514.948477,1059.80105152
+332813,"Electroplating, Plating, Polishing, Anodizing, and Coloring",0.0325867191947,0.0055932822448,0.207208969172,46026.1220043,1257.16825075
+332911,"Industrial Valve Manufacturing",0,0,0,0,0
+332912,"Fluid Power Valve and Hose Fitting Manufacturing",0,0,0,0,0
+332913,"Plumbing Fixture Fitting and Trim Manufacturing",0.0311880517029,0.00560693308325,0.219182482464,83652.2296779,2139.91761019
+332919,"Other Metal Valve and Pipe Fitting Manufacturing",0,0,0,0,0
+332991,"Ball and Roller Bearing Manufacturing",0,0,0,0,0
+332992,"Small Arms Ammunition Manufacturing",0.0282832981906,0.00564571265497,0.249395530548,61287.1898746,1387.39400302
+332993,"Ammunition (except Small Arms) Manufacturing",0,0,0,0,0
+332994,"Small Arms, Ordnance, and Ordnance Accessories Manufacturing",0.0249768832483,0.00516081651659,0.260435967766,40555.4598975,924.381006209
+332996,"Fabricated Pipe and Pipe Fitting Manufacturing",0,0,0,0,0
+332999,"All Other Miscellaneous Fabricated Metal Product Manufacturing",0.0236640415906,0.00491855621951,0.262386175772,67840.5487038,1288.65469867
+333111,"Farm Machinery and Equipment Manufacturing",0.0253175023456,0.00534128905324,0.267382460083,65733.0561926,1317.46608651
+333112,"Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing",0,0,0,0,0
+333120,"Construction Machinery Manufacturing",0.0263272957243,0.00555183634879,0.267230497697,90249.4205767,1894.12219473
+333131,"Mining Machinery and Equipment Manufacturing",0.0266375623694,0.00554755741632,0.263042015811,70122.759268,1502.29746283
+333132,"Oil and Gas Field Machinery and Equipment Manufacturing",0,0,0,0,0
+333241,"Food Product Machinery Manufacturing",0,0,0,0,0
+333242,"Semiconductor Machinery Manufacturing",0,0,0,0,0
+333243,"Sawmill, Woodworking, and Paper Machinery Manufacturing",0.0256288780233,0.0047336513123,0.22654223272,72021.6237171,2248.67242886
+333248,"All Other Industrial Machinery Manufacturing",0.0224855048193,0.00202311211162,0.0988697724907,79442.2033824,1773.77378394
+333310,"Commercial and Service Industry Machinery Manufacturing",0.0202481288483,0.000556500779383,0.0282607805426,68196.3993434,1370.31923725
+333413,"Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing",0.0178701252303,-0.000449845306018,-0.0245549142738,88907.9873038,1657.2784354
+333414,"Heating Equipment (except Warm Air Furnaces) Manufacturing",0.0161078639412,-0.000964908836414,-0.0565174063396,50794.0535927,937.083555011
+333415,"Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing",0,0,0,0,0
+333511,"Industrial Mold Manufacturing",0.0179559863232,0.00163714757544,0.100322553629,64076.8958416,1048.95482514
+333514,"Special Die and Tool, Die Set, Jig, and Fixture Manufacturing",0,0,0,0,0
+333515,"Cutting Tool and Machine Tool Accessory Manufacturing",0.0193630958137,0.00225907289202,0.13207845326,81231.7150897,1402.72775481
+333517,"Machine Tool Manufacturing",0.0202321882448,0.00250572217793,0.14135486275,68404.4512847,1256.15357208
+333519,"Rolling Mill and Other Metalworking Machinery Manufacturing",0,0,0,0,0
+333611,"Turbine and Turbine Generator Set Units Manufacturing",0,0,0,0,0
+333612,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing",0,0,0,0,6374.24041202
+333613,"Mechanical Power Transmission Equipment Manufacturing",0,0,0,0,0
+333618,"Other Engine Equipment Manufacturing",0.0205157806257,0.00231493567893,0.127188363271,150007.44663,3676.50750193
+333912,"Air and Gas Compressor Manufacturing",0.0203239468141,0.00222363535122,0.122850667834,67207.4695076,1216.47613072
+333914,"Measuring, Dispensing, and Other Pumping Equipment Manufacturing",0,0,0,0,0
+333921,"Elevator and Moving Stairway Manufacturing",0,0,0,0,61.2172399518
+333922,"Conveyor and Conveying Equipment Manufacturing",0,0,0,0,0
+333923,"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing",0.0187401087367,0.000177442505358,0.0095591066039,62048.2375385,1172.4499747
+333924,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing",0.0167802736742,-0.00154325506713,-0.0842225910153,52834.2244844,968.109430864
+333991,"Power-Driven Handtool Manufacturing",0,0,0,0,0
+333992,"Welding and Soldering Equipment Manufacturing",0.0163088605906,-0.00112147862933,-0.06434060836,93820.2842078,1635.31937946
+333993,"Packaging Machinery Manufacturing",0,0,0,0,4824.25791616
+333994,"Industrial Process Furnace and Oven Manufacturing",0,0,0,0,0
+333995,"Fluid Power Cylinder and Actuator Manufacturing",0.0146812546166,-0.00275919927147,-0.158206849958,56040.0584553,2348.85011827
+333996,"Fluid Power Pump and Motor Manufacturing",0,0,0,0,0
+333998,"All Other Miscellaneous General Purpose Machinery Manufacturing",0.0155362935579,-0.00158226851871,-0.0924299898342,79025.5686238,1537.66034936
+334111,"Electronic Computer Manufacturing",0,0,0,0,0
+334112,"Computer Storage Device Manufacturing",0,0,0,0,0
+334118,"Computer Terminal and Other Computer Peripheral Equipment Manufacturing",0.0161965566431,-0.000876608967439,-0.0513442549224,86925.5982926,1573.93387076
+334210,"Telephone Apparatus Manufacturing",0,0,0,0,0
+334220,"Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing",0.0166539414949,-0.000723026485275,-0.0416083223551,96932.9842691,1720.76021296
+334290,"Other Communications Equipment Manufacturing",0.0169195751735,-0.000154444630696,-0.00904559280519,54262.6496683,3217.76860773
+334310,"Audio and Video Equipment Manufacturing",0.0170205914958,-5.19747401511E-5,-0.00304434256883,62890.2438896,2973.54212891
+334412,"Bare Printed Circuit Board Manufacturing",0,0,0,0,0
+334413,"Semiconductor and Related Device Manufacturing",0.0169975342195,-0.00890413888796,-0.34376693934,77315.0913622,2006.99381554
+334416,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing",0,0,0,0,0
+334417,"Electronic Connector Manufacturing",0.0168969761779,7.07220005812E-5,0.00420307454267,80850.7833924,1385.41799004
+334418,"Printed Circuit Assembly (Electronic Assembly) Manufacturing",0.0167593353792,0.00189690383899,0.127630787322,51042.4074972,763.157919762
+334419,"Other Electronic Component Manufacturing",0.0166059033964,0.00306668946837,0.226504247933,41361.8591416,619.544784776
+334510,"Electromedical and Electrotherapeutic Apparatus Manufacturing",0.0164248451478,0.00335102045907,0.256315235889,84893.2604202,3330.07911998
+334511,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing",0.0162040627505,0.00284383128528,0.212857935334,86967.0898084,1279.25478831
+334512,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use",0,0,0,0,0
+334513,"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables",0.0155929671187,0.00116948977784,0.081082373564,44967.2232182,659.746416673
+334514,"Totalizing Fluid Meter and Counting Device Manufacturing",0,0,0,0,0
+334515,"Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals",0.0151293221257,0.00143239097234,0.10457751129,154059.12396,5120.89533697
+334516,"Analytical Laboratory Instrument Manufacturing",0.0155038370971,0.000948618457509,0.0651737690101,69083.025531,1571.70296524
+334517,"Irradiation Apparatus Manufacturing",0,0,0,0,0
+334519,"Other Measuring and Controlling Device Manufacturing",0.0157581304181,0.00130569547668,0.0903443248123,86227.6625675,1300.7261918
+334610,"Manufacturing and Reproducing Magnetic and Optical Media",0,0,0,0,0
+335131,"Residential Electric Lighting Fixture Manufacturing",0,0,0,0,0
+335132,"Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing",0,0,0,0,0
+335139,"Electric Lamp Bulb and Other Lighting Equipment Manufacturing",0.0158981743032,0.00141499031135,0.0976988424741,70382.810742,1172.4252319
+335210,"Small Electrical Appliance Manufacturing",0.0159265349303,0.00123448458384,0.0840239826799,74109.1681918,1133.98826914
+335220,"Major Household Appliance Manufacturing",0.0158131084447,0.000832439595372,0.0555675853825,158844.723327,2473.84286341
+335311,"Power, Distribution, and Specialty Transformer Manufacturing",0,0,0,0,0
+335312,"Motor and Generator Manufacturing",0,0,0,0,0
+335313,"Switchgear and Switchboard Apparatus Manufacturing",0,0,0,0,0
+335314,"Relay and Industrial Control Manufacturing",0.015449151982,0.000785668453729,0.0535799322321,68937.4309196,1069.84501589
+335910,"Battery Manufacturing",0.0147606322675,0.000265569471898,0.0183213743633,60995.725861,940.428732068
+335921,"Fiber Optic Cable Manufacturing",0.0128747382662,-0.000745668627727,-0.0547464281747,84567.5683554,1151.84469103
+335929,"Other Communication and Energy Wire Manufacturing",0,0,0,0,0
+335931,"Current-Carrying Wiring Device Manufacturing",0,0,0,0,0
+335932,"Noncurrent-Carrying Wiring Device Manufacturing",0,0,0,0,0
+335991,"Carbon and Graphite Product Manufacturing",0.0134457644403,0.00160749166902,0.135787686268,66354.3616511,787.710719555
+335999,"All Other Miscellaneous Electrical Equipment and Component Manufacturing",0.0138684573326,0.00192104459864,0.160791682803,99414.0006642,1288.72044753
+336110,"Automobile and Light Duty Motor Vehicle Manufacturing",0.0141117152277,0.00168364492446,0.135471145831,73043.9843087,935.215483404
+336120,"Heavy Duty Truck Manufacturing",0,0,0,0,0
+336211,"Motor Vehicle Body Manufacturing",0.0140546425249,0.00121928816077,0.0949945070603,63206.9297129,811.283341134
+336212,"Truck Trailer Manufacturing",0.0133245618973,0.000431642118682,0.0334790044531,78885.84012,1017.95869955
+336213,"Motor Home Manufacturing",0,0,0,0,0
+336214,"Travel Trailer and Camper Manufacturing",0.0123237931835,-0.000522678068559,-0.0406865090267,53115.0302222,682.340708803
+336310,"Motor Vehicle Gasoline Engine and Engine Parts Manufacturing",0.011984607354,-0.000496054405838,-0.0397458416376,61921.4620699,781.324019068
+336320,"Motor Vehicle Electrical and Electronic Equipment Manufacturing",0.0108547830108,-0.000759741323795,-0.0654130381845,80428.2544423,946.540638113
+336330,"Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing",0,0,0,0,0
+336340,"Motor Vehicle Brake System Manufacturing",0,0,0,0,0
+336350,"Motor Vehicle Transmission and Power Train Parts Manufacturing",0,0,0,0,0
+336360,"Motor Vehicle Seating and Interior Trim Manufacturing",0,0,0,0,0
+336370,"Motor Vehicle Metal Stamping",0,0,0,0,0
+336390,"Other Motor Vehicle Parts Manufacturing",0,0,0,0,0
+336411,"Aircraft Manufacturing",0.0110480547259,0.00147263418669,0.15379316038,131520.898545,1304.3200543
+336412,"Aircraft Engine and Engine Parts Manufacturing",0,0,0,0,0
+336413,"Other Aircraft Parts and Auxiliary Equipment Manufacturing",0.0114930580339,0.00128876472172,0.126296322763,105464.611431,1126.75407022
+336414,"Guided Missile and Space Vehicle Manufacturing",0,0,0,0,0
+336415,"Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing",0,0,0,0,0
+336419,"Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing",0,0,0,0,0
+336510,"Railroad Rolling Stock Manufacturing",0,0,0,0,0
+336611,"Ship Building and Repairing",0,0,0,0,0
+336612,"Boat Building",0.0117433407689,0.00104177229707,0.0973476271081,69010.4143095,740.348910238
+336991,"Motorcycle, Bicycle, and Parts Manufacturing",0.0117702842475,0.00073702895134,0.0668006795414,76841.9020925,1011.67573004
+336992,"Military Armored Vehicle, Tank, and Tank Component Manufacturing",0,0,0,0,0
+336999,"All Other Transportation Equipment Manufacturing",0.0113812852321,6.75784824892E-6,0.000594121234302,90480.8938243,1359.40141619
+337110,"Wood Kitchen Cabinet and Countertop Manufacturing",0.00983317011405,-0.00116427086852,-0.105867435012,59057.8635991,650.599280677
+337121,"Upholstered Household Furniture Manufacturing",0,0,0,0,0
+337122,"Nonupholstered Wood Household Furniture Manufacturing",0.00727853401272,-0.00122586188685,-0.144144499072,46530.9618374,401.717304385
+337126,"Household Furniture (except Wood and Upholstered) Manufacturing",0,0,0,0,0
+337127,"Institutional Furniture Manufacturing",0,0,0,0,0
+337211,"Wood Office Furniture Manufacturing",0,0,0,0,0
+337212,"Custom Architectural Woodwork and Millwork Manufacturing",0.00799644591347,-0.000238979802866,-0.0290185123511,49488.7358285,413.609092886
+337214,"Office Furniture (except Wood) Manufacturing",0.00855887238021,0.000793214712348,0.102143919585,49344.4464932,564.877084622
+337215,"Showcase, Partition, Shelving, and Locker Manufacturing",0,0,0,0,0
+337910,"Mattress Manufacturing",0,0,0,0,0
+337920,"Blind and Shade Manufacturing",0,0,0,0,0
+339112,"Surgical and Medical Instrument Manufacturing",0.00893682249894,0.000584007056423,0.0699173901832,84734.8430186,1692.15723137
+339113,"Surgical Appliance and Supplies Manufacturing",0.00911362227281,0.000331686549938,0.0377691844264,50841.0206132,498.107217848
+339114,"Dental Equipment and Supplies Manufacturing",0.0088524665986,-0.000211020156918,-0.023282447761,45628.2740381,474.524010187
+339115,"Ophthalmic Goods Manufacturing",0.00845646526165,-0.00056300124052,-0.0624206809111,90879.1712981,965.856953013
+339116,"Dental Laboratories",0.00769303964579,-0.00104711125022,-0.119804710775,62106.3881997,546.630389116
+339910,"Jewelry and Silverware Manufacturing",0.00507503018921,-0.00299586299392,-0.371193488248,61164.2823965,507.671362253
+339920,"Sporting and Athletic Goods Manufacturing",0.00563513447145,0.000224521680745,0.0414965345757,59522.2695632,341.11178791
+339930,"Doll, Toy, and Game Manufacturing",0.00610988494385,7.39478211009E-5,0.0122512576916,113024.609701,749.140128555
+339940,"Office Supplies (except Paper) Manufacturing",0,0,0,0,0
+339950,"Sign Manufacturing",0.00637462887052,-0.000134944213169,-0.0207301172341,76099.0643823,525.658287649
+339991,"Gasket, Packing, and Sealing Device Manufacturing",0,0,0,0,0
+339992,"Musical Instrument Manufacturing",0,0,0,0,0
+339993,"Fastener, Button, Needle, and Pin Manufacturing",0,0,0,0,0
+339994,"Broom, Brush, and Mop Manufacturing",0,0,0,0,0
+339995,"Burial Casket Manufacturing",0,0,0,0,0
+339999,"All Other Miscellaneous Manufacturing",0.00643983025816,-0.000376826474554,-0.0552802479764,83049.4228623,664.392377909
+423110,"Automobile and Other Motor Vehicle Merchant Wholesalers",0.00056436067948,0.000139680847407,0.328908596213,83260.1494324,37.7754241575
+423120,"Motor Vehicle Supplies and New Parts Merchant Wholesalers",0.000433825031303,0.000113665978239,0.355029717731,71113.8903397,25.3798996826
+423130,"Tire and Tube Merchant Wholesalers",0.000416738964468,8.74254487853E-5,0.265477864169,134118.662585,45.2282141287
+423140,"Motor Vehicle Parts (Used) Merchant Wholesalers",0.000432287795024,-0.000124710003488,-0.223896761928,78112.3393437,50.637288947
+423210,"Furniture Merchant Wholesalers",0,0,0,0,0
+423220,"Home Furnishing Merchant Wholesalers",1.72792402048,0.0637055038778,0.0382795307482,91919.3287,181892.297384
+423310,"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers",0.000340791037886,-6.39862055821E-5,-0.158077576283,188271.926372,84.0163835394
+423320,"Brick, Stone, and Related Construction Material Merchant Wholesalers",0.129501052576,-0.110919912008,-0.46135707092,106335.076513,26135.8598459
+423330,"Roofing, Siding, and Insulation Material Merchant Wholesalers",0.000462915278578,0.000130142367967,0.391084622027,87998.3832872,29.9957101469
+423390,"Other Construction Material Merchant Wholesalers",0.00153735552876,0.000889516630868,1.3730522106,72540.6164836,56.4871804088
+423410,"Photographic Equipment and Supplies Merchant Wholesalers",0,0,0,0,0
+423420,"Office Equipment Merchant Wholesalers",0.00276780396376,0.00091617181573,0.494791482588,74378.6360527,166.169590098
+423430,"Computer and Computer Peripheral Equipment and Software Merchant Wholesalers",0.0288068451762,-0.0192018822125,-0.399966490614,122512.842878,6646.02241053
+423440,"Other Commercial Equipment Merchant Wholesalers",0.0502254426,-0.00807680692321,-0.138533366881,91400.0707282,6024.56472421
+423450,"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers",0.466333256326,-0.0761774162286,-0.140416438021,114524.477069,83272.8146396
+423460,"Ophthalmic Goods Merchant Wholesalers",0,0,0,0,0
+423490,"Other Professional Equipment and Supplies Merchant Wholesalers",0.0370666877086,0.00449249766836,0.137915867219,95816.6363433,3642.80774927
+423510,"Metal Service Centers and Other Metal Merchant Wholesalers",0.0035949611537,0.00227800046269,1.72974066595,76654.9769451,113.77051053
+423520,"Coal and Other Mineral and Ore Merchant Wholesalers",0,0,0,0,0
+423610,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",0.235294212555,0.166479445396,2.41924011765,141199.236435,10798.4180349
+423620,"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers",0.115443443147,0.0979563905769,5.60165243309,53877.1074603,1657.48694867
+423690,"Other Electronic Parts and Equipment Merchant Wholesalers",0.000347511408528,-5.15967638787E-6,-0.0146302790576,69099.2567976,27.2938842878
+423710,"Hardware Merchant Wholesalers",0.000414838327686,-3.71439120283E-5,-0.0821800255953,82134.2490252,39.5366231105
+423720,"Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers",0.000753399503897,0.000233015855998,0.447777052447,83097.3503853,45.8115063418
+423730,"Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers",0.00139397141741,0.000829851483822,1.4710550619,83679.1268819,52.6506613774
+423740,"Refrigeration Equipment and Supplies Merchant Wholesalers",0.00171271096993,0.00109818130006,1.78702730545,102178.014331,66.284090977
+423810,"Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers",0.0019173204539,0.00121533381659,1.73127770815,112990.653249,80.4790008271
+423820,"Farm and Garden Machinery and Equipment Merchant Wholesalers",0.0020655359689,0.000578035145839,0.388594841009,89004.6098412,136.27282158
+423830,"Industrial Machinery and Equipment Merchant Wholesalers",0.00215338386139,0.000207583430685,0.106682796144,86358.9703748,181.753676065
+423840,"Industrial Supplies Merchant Wholesalers",0.00217197963255,4.31917536064E-5,0.0202893646819,95393.0591636,227.553890144
+423850,"Service Establishment Equipment and Supplies Merchant Wholesalers",0.00212500208271,-1.20941800983E-5,-0.00565916487188,43285.4004155,119.708525218
+423860,"Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers",0.0020265990701,-1.75996054563E-5,-0.00860953764756,87686.0048673,203.61944857
+423910,"Sporting and Recreational Goods and Supplies Merchant Wholesalers",0.00189423216049,-0.000548088865504,-0.224413113457,51174.7673022,142.53740032
+423920,"Toy and Hobby Goods and Supplies Merchant Wholesalers",0.00687728428861,-0.00568423356502,-0.452511681411,105271.802714,2930.01819609
+423930,"Recyclable Material Merchant Wholesalers",0,0,0,0,0
+423940,"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers",0.00537984906882,-0.0059884873057,-0.526769010734,93618.4741098,2406.44872543
+423990,"Other Miscellaneous Durable Goods Merchant Wholesalers",0.0252760509578,-0.00676176171545,-0.211055660523,48287.8851644,4715.79055267
+424110,"Printing and Writing Paper Merchant Wholesalers",0,0,0,0,0
+424120,"Stationery and Office Supplies Merchant Wholesalers",0.00559075182069,-0.00439406393648,-0.440074613628,50387.5403846,540.81521602
+424130,"Industrial and Personal Service Paper Merchant Wholesalers",0.0104089150673,-0.000804777324072,-0.0717673800905,75229.855936,907.749991949
+424210,"Drugs and Druggists' Sundries Merchant Wholesalers",0.0119158395736,-0.000188913933292,-0.0156065906823,148770.880971,2501.27996445
+424310,"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",0.010851079878,-0.00101794164209,-0.0857645796972,56939.5112076,796.659093423
+424340,"Footwear Merchant Wholesalers",0,0,0,0,0
+424350,"Clothing and Clothing Accessories Merchant Wholesalers",0.0100933851493,-8.91728444955E-5,-0.00875741091289,90575.1835639,1086.86982457
+424410,"General Line Grocery Merchant Wholesalers",0.0109877409566,0.000836051843748,0.0823559345107,59550.0775626,610.376237291
+424420,"Packaged Frozen Food Merchant Wholesalers",0,0,0,0,0
+424430,"Dairy Product (except Dried or Canned) Merchant Wholesalers",0,0,0,0,0
+424440,"Poultry and Poultry Product Merchant Wholesalers",0,0,0,0,0
+424450,"Confectionery Merchant Wholesalers",0.0115472185279,0.0011972032988,0.115671646108,68367.5406732,785.255296737
+424460,"Fish and Seafood Merchant Wholesalers",0,0,0,0,0
+424470,"Meat and Meat Product Merchant Wholesalers",0.0117192522805,0.00130857399104,0.12569536342,88453.6421755,934.719869043
+424480,"Fresh Fruit and Vegetable Merchant Wholesalers",0,0,0,0,0
+424490,"Other Grocery and Related Products Merchant Wholesalers",0.0112004402735,0.00101444256071,0.0995918700672,47795.5561459,528.854054934
+424510,"Grain and Field Bean Merchant Wholesalers",0,0,0,0,0
+424520,"Livestock Merchant Wholesalers",0,0,0,0,0
+424590,"Other Farm Product Raw Material Merchant Wholesalers",0,0,0,0,0
+424610,"Plastics Materials and Basic Forms and Shapes Merchant Wholesalers",0.00944884171087,0.000303869211846,0.0332280071786,123719.860628,1164.61862015
+424690,"Other Chemical and Allied Products Merchant Wholesalers",0.00711119892588,-0.000352783761524,-0.0472648150858,84170.8028235,688.965662596
+424710,"Petroleum Bulk Stations and Terminals",0.00666814151438,0.000676413204026,0.112891167454,55019.5206671,340.385691543
+424720,"Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)",0.00726235657987,0.000579888760754,0.0867776361145,42755.6481466,292.307564203
+424810,"Beer and Ale Merchant Wholesalers",0.00777752108268,0.000495952151283,0.0681106168129,57392.0978259,423.041348315
+424820,"Wine and Distilled Alcoholic Beverage Merchant Wholesalers",0.00811937630008,0.000403758007112,0.0523299613565,118192.262725,1034.15265866
+424910,"Farm Supplies Merchant Wholesalers",0.00817771181255,0.000230221349672,0.0289678044595,72796.298618,607.290696157
+424920,"Book, Periodical, and Newspaper Merchant Wholesalers",0.00770899587663,-0.000227591676423,-0.028676263558,44506.5731926,384.745443874
+424930,"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers",0.0071232987113,-0.000508786477793,-0.0666641507776,34583.0102285,264.795477278
+424940,"Tobacco and Tobacco Product Merchant Wholesalers",0.0061908089288,-0.000749389561806,-0.107978116594,32786.8247155,241.489433995
+424950,"Paint, Varnish, and Supplies Merchant Wholesalers",0.00517439974041,-0.000814949182108,-0.13606640599,54494.7985769,458.240721244
+424990,"Other Miscellaneous Nondurable Goods Merchant Wholesalers",0.00520931032608,0.000204574598451,0.0408762039764,56753.2701456,370.306104926
+425120,"Wholesale Trade Agents and Brokers",0.00994483256254,0.00089212239744,0.0985475488743,105305.166138,2223.00416838
+441110,"New Car Dealers",5.49330968735,0.1900208062,0.0358307477603,93596.7000972,496823.653751
+441120,"Used Car Dealers",0.17437136548,-0.0265702241975,-0.132228595584,78880.2806221,15959.4949629
+441210,"Recreational Vehicle Dealers",0.00952208396322,0.000633725658011,0.0712983923746,91114.8012209,810.628413998
+441222,"Boat Dealers",0.00779600133254,0.000725934986493,0.102677252371,82324.2532251,582.492665294
+441227,"Motorcycle, ATV, and All Other Motor Vehicle Dealers",0.00627619508718,0.000537458417809,0.0936544833425,63037.157995,362.817065389
+441330,"Automotive Parts and Accessories Retailers",0.00502328316014,0.000380578260786,0.081973390305,46307.2165901,218.687224471
+441340,"Tire Dealers",0.00419549138082,0.000269978880702,0.0687754479686,60168.9541749,240.748918692
+444110,"Home Centers",0.0037860964406,0.00020383955448,0.0569025508109,50170.546295,180.557023004
+444120,"Paint and Wallpaper Stores",0.00369812646771,0.000172475206767,0.0489200984447,61993.9562034,227.746404513
+444140,"Hardware Retailers",0.00380147964594,0.000164167912538,0.0451344082033,40293.0083784,149.110231368
+444180,"Other Building Material Dealers",0.00397392782373,0.000168417977776,0.0442563505532,74139.2950906,286.400397775
+444230,"Outdoor Power Equipment Retailers",0.135466638292,-0.000550382154479,-0.00404642119548,20408.3057782,2775.8769443
+444240,"Nursery, Garden Center, and Farm Supply Retailers",0.857728378521,0.0173891436924,0.0206930046482,20486.5119998,21483.3125959
+445110,"Supermarkets and Other Grocery (except Convenience) Stores",0.110682768341,-0.0377613248597,-0.254380784345,53859.1857544,8228.96326668
+445131,"Convenience Retailers",0.201672904061,-0.014921341512,-0.0688907568736,25467.8004355,26109.5295653
+445132,"Vending Machine Operators",0.150053907282,-0.0071647595932,-0.0455719396151,38392.3986418,6209.23952591
+445230,"Fruit and Vegetable Markets",0,0,0,0,0
+445240,"Meat Retailers",0.141307674733,-0.00339821764907,-0.0234836162725,37456.4959144,5668.99604118
+445250,"Fish and Seafood Retailers",0.108605296319,-0.00270517251395,-0.0243029478028,31636.9030057,3521.51850597
+445291,"Baked Goods Stores",0.092134716407,0.00325108845921,0.036576909992,22890.1951591,2037.44963478
+445292,"Confectionery and Nut Stores",0,0,0,0,0
+445298,"All Other Specialty Food Retailers",0.105354151797,0.00475343349204,0.0472504925621,35933.0389025,3767.03041215
+445320,"Beer, Wine, and Liquor Retailers",0.11532225652,0.00559774089109,0.051016318997,20945.8159217,2400.4663342
+449110,"Furniture Retailers",0.121873526108,0.00588251699895,0.0507152842635,57606.7840097,6720.59833138
+449121,"Floor Covering Retailers",0.124864590946,0.00565285972098,0.0474186530378,83434.9044769,9982.65134345
+449122,"Window Treatment Retailers",0.123857715798,0.00481319475448,0.040431888106,80449.1670093,10302.3112976
+449129,"All Other Home Furnishings Retailers",0.119488998388,0.00368640095266,0.0318334910813,36292.3167993,4317.91248441
+449210,"Electronics and Appliance Retailers",0.110640055001,0.00218982836841,0.0201920128376,57499.2979058,6498.51155182
+455110,"Department Stores",0.0858533333937,-0.000550067965684,-0.00636627675566,29668.5013227,2612.1382877
+455211,"Warehouse Clubs and Supercenters",0.0668440682685,-0.00100790646762,-0.0148544898146,46375.9928564,3146.70269566
+455219,"All Other General Merchandise Retailers",0.0511568750133,0.0020371097759,0.0414723027697,31436.7498631,1545.55427268
+456110,"Pharmacies and Drug Retailers",0.157033925683,0.00535748620584,0.0353218088737,34295.9884952,36076.0059232
+456120,"Cosmetics, Beauty Supplies, and Perfume Retailers",0.066591086453,0.00205510836069,0.0318443823343,23983.5562727,1637.89397558
+456130,"Optical Goods Retailers",0.071680337704,0.00187382550696,0.0268431332261,43008.4308263,3191.83302104
+456191,"Food (Health) Supplement Retailers",0.0716469630763,0.00137922743918,0.0196281753877,37406.8929673,3085.23542993
+456199,"All Other Health and Personal Care Retailers",0.0572013945353,-0.000166100227832,-0.00289537182193,56866.2347656,3438.65669258
+457110,"Gasoline Stations with Convenience Stores",0.0464580963705,-0.000716694061651,-0.0151923104498,29881.9746215,1438.5849714
+457120,"Other Gasoline Stations",0.030217113603,-0.00114091239122,-0.0363834251375,52473.2107125,1828.3263182
+457210,"Fuel Dealers",0.0313811756242,0.00200026003622,0.0680802485624,66969.3329111,2033.52220511
+458110,"Clothing and Clothing Accessories Retailers",0.035583988171,0.00196737650679,0.058523938297,27395.9523315,967.948293626
+458210,"Shoe Retailers",0.0391599950767,0.00185894772802,0.0498363413403,23162.6377885,865.801162257
+458310,"Jewelry Retailers",0.0417430840484,0.00166024592451,0.0414203684724,72839.036327,2978.18511031
+458320,"Luggage and Leather Goods Retailers",0.042998435157,0.00137039857917,0.0329200868411,19123.3757536,819.345977433
+459110,"Sporting Goods Retailers",0.0424928897978,0.000956766378466,0.0230345612374,31240.5550277,1327.44259646
+459120,"Hobby, Toy, and Game Retailers",0.0394490373364,0.000239962412641,0.00612007330211,24340.7600973,968.042337612
+459130,"Sewing, Needlework, and Piece Goods Retailers",0.0311713521085,-0.000935386241149,-0.0291336426317,35598.1496505,1150.12323218
+459140,"Musical Instrument and Supplies Retailers",0.0196050841606,-0.00156016070023,-0.073713331005,44921.2434481,954.787520212
+459210,"Book Retailers and News Dealers",0.0202475947635,0.00163428502684,0.0878019573068,30917.0422253,589.918997122
+459310,Florists,0.0229320115479,0.00159368256525,0.0746863808573,25369.570996,549.171765229
+459410,"Office Supplies and Stationery Retailers",0.0251728035906,0.00149264658325,0.063033643856,55891.9056322,1338.15523411
+459420,"Gift, Novelty, and Souvenir Retailers",0.0266573135232,0.00131930164173,0.0520680804755,37048.153547,949.501580717
+459510,"Used Merchandise Retailers",0.0268925029645,0.000983046398177,0.0379416062108,28229.5598091,794.95632263
+459910,"Pet and Pet Supplies Retailers",0.0253018197481,0.000483027847332,0.0194621820943,36755.6297116,921.84230234
+459920,"Art Dealers",0.0193673853193,-0.000445939627313,-0.0225070566659,37616.3091959,817.91031404
+459930,"Manufactured (Mobile) Home Dealers",0.0102128646537,-0.00110606442961,-0.0977181163929,121978.39534,1385.90384274
+459991,"Tobacco, Electronic Cigarette, and Other Smoking Supplies Retailers",0.011023545382,0.00128477929585,0.13192423809,34119.8243576,341.712820363
+459999,"All Other Miscellaneous Retailers",0.0127752176846,0.00127926646862,0.111279740544,32167.3788694,488.696074758
+481111,"Scheduled Passenger Air Transportation",0,0,0,0,0
+481112,"Scheduled Freight Air Transportation",0,0,0,0,0
+481211,"Nonscheduled Chartered Passenger Air Transportation",0,0,0,0,0
+481212,"Nonscheduled Chartered Freight Air Transportation",0,0,0,0,0
+481219,"Other Nonscheduled Air Transportation",0.000365932271474,-5.9688497017E-5,-0.140238685317,55503.0654872,25.3652025123
+482110,"Rail transportation",2.32534355884,0.0908562533671,0.040660894848,91100.6443145,203563.233241
+483111,"Deep Sea Freight Transportation",0,0,0,0,0
+483112,"Deep Sea Passenger Transportation",0,0,0,0,0
+483113,"Coastal and Great Lakes Freight Transportation",0,0,0,0,0
+483114,"Coastal and Great Lakes Passenger Transportation",0,0,0,0,0
+483211,"Inland Water Freight Transportation",0,0,0,0,0
+483212,"Inland Water Passenger Transportation",0,0,0,0,0
+484110,"General Freight Trucking, Local",6.14106893193E-5,-1.49316777198E-5,-0.195588351513,70157.4207514,5.66191041552
+484121,"General Freight Trucking, Long-Distance, Truckload",0.686932329377,-0.0016574221232,-0.00240698052736,83025.9351187,150844.076171
+484122,"General Freight Trucking, Long-Distance, Less Than Truckload",0.114027214285,0.000368342753103,0.00324077432881,83436.4322825,29448.5068878
+484210,"Used Household and Office Goods Moving",2.93100536916E-5,7.55415420922E-6,0.347223253874,36807.526666,0.816106478194
+484220,"Specialized Freight (except Used Goods) Trucking, Local",2.48784234457E-5,6.75470613373E-6,0.372699817452,72975.8233157,1.37215743828
+484230,"Specialized Freight (except Used Goods) Trucking, Long-Distance",1.85196998923E-5,5.55193838815E-6,0.428133906254,66738.5245576,0.979114686979
+485111,"Mixed Mode Transit Systems",0,0,0,0,0
+485112,"Commuter Rail Systems",0,0,0,0,0
+485113,"Bus and Other Motor Vehicle Transit Systems",0,0,0,0,0
+485119,"Other Urban Transit Systems",0,0,0,0,0
+485210,"Interurban and Rural Bus Transportation",0,0,0,0,0
+485310,"Taxi Service",1.22269115783E-5,1.22269115783E-5,,0,0
+485320,"Limousine Service",0,0,0,0,0
+485410,"School and Employee Bus Transportation",0,0,0,0,0
+485510,"Charter Bus Industry",0,0,0,0,0
+485991,"Special Needs Transportation",0,0,0,0,0
+485999,"All Other Transit and Ground Passenger Transportation",0,0,0,0,0
+486110,"Pipeline Transportation of Crude Oil",0,0,0,0,0
+486210,"Pipeline Transportation of Natural Gas",0,0,0,0,0
+486910,"Pipeline Transportation of Refined Petroleum Products",0,0,0,0,0
+486990,"All Other Pipeline Transportation",0,0,0,0,0
+487110,"Scenic and Sightseeing Transportation, Land",0,0,0,0,0
+487210,"Scenic and Sightseeing Transportation, Water",0,0,0,0,0
+487990,"Scenic and Sightseeing Transportation, Other",0,0,0,0,0
+488111,"Air Traffic Control",0,0,0,0,0
+488119,"Other Airport Operations",0,0,0,0,0
+488190,"Other Support Activities for Air Transportation",0,0,0,0,0
+488210,"Support Activities for Rail Transportation",0,0,0,0,0
+488310,"Port and Harbor Operations",0,0,0,0,0
+488320,"Marine Cargo Handling",0,0,0,0,0
+488330,"Navigational Services to Shipping",0,0,0,0,0
+488390,"Other Support Activities for Water Transportation",0,0,0,0,0
+488410,"Motor Vehicle Towing",0,0,0,0,0
+488490,"Other Support Activities for Road Transportation",0,0,0,0,0
+488510,"Freight Transportation Arrangement",0,0,0,0,0
+488991,"Packing and Crating",0,0,0,0,0
+488999,"All Other Support Activities for Transportation",0,0,0,0,0
+491110,"Postal Service",0,0,0,0,0
+492110,"Couriers and Express Delivery Services",0,0,0,0,0
+492210,"Local Messengers and Local Delivery",0,0,0,0,0
+493110,"General Warehousing and Storage",0,0,0,0,0
+493120,"Refrigerated Warehousing and Storage",0,0,0,0,7.32728466035
+493130,"Farm Product Warehousing and Storage",0.0144051587155,0.000612757450454,0.0444271768692,520.8155993,35.1998569333
+493190,"Other Warehousing and Storage",0.0623381438558,0.00415619737926,0.0714344849384,520.8155993,154.501464054
+512110,"Motion Picture and Video Production",0,0,0,0,0
+512120,"Motion Picture and Video Distribution",0,0,0,0,0
+512131,"Motion Picture Theaters (except Drive-Ins)",1.67359881897E-5,-6.83896211611E-6,-0.290094444629,30472.0824225,0.720717780681
+512132,"Drive-In Motion Picture Theaters",0,0,0,0,0
+512191,"Teleproduction and Other Postproduction Services",1.87699757112E-5,-6.43507190476E-6,-0.25530885729,83797.1937411,2.61070216118
+512199,"Other Motion Picture and Video Industries",0,0,0,0,0
+512230,"Music Publishers",0,0,0,0,0
+512240,"Sound Recording Studios",0,0,0,0,0
+512250,"Record Production and Distribution",1.2659978772E-5,-2.47641684818E-6,-0.16360677339,176653.460484,5.01772001893
+512290,"Other Sound Recording Industries",0,0,0,0,0
+513110,"Newspaper Publishers",0,0,0,0,0
+513120,"Periodical Publishers",0,0,0,0,0
+513130,"Book Publishers",0,0,0,0,0
+513140,"Directory and Mailing List Publishers",0,0,0,0,0
+513191,"Greeting Card Publishers",0,0,0,0,0
+513199,"All Other Publishers",0,0,0,0,0
+513210,"Software Publishers",0,0,0,0,0
+516110,"Radio Broadcasting Stations",0,0,0,0,0
+516120,"Television Broadcasting Stations",0,0,0,0,0
+516210,"Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",0,0,0,0,0
+517111,"Wired Telecommunications Carriers",0,0,0,0,0
+517112,"Wireless Telecommunications Carriers (except Satellite)",0,0,0,0,0
+517121,"Telecommunications Resellers",0,0,0,0,0
+517410,"Satellite Telecommunications",0,0,0,0,0
+517810,"All Other Telecommunications",0,0,0,0,0
+518210,"Data Processing, Hosting, and Related Services",0,0,0,0,0
+519210,"Libraries and Archives",0,0,0,0,0
+519290,"Web Search Portals and All Other Information Services",0.022826422655,-7.79267722259E-5,-0.00340226962016,5887.81370152,1091.56821857
+521110,"Monetary Authorities-Central Bank",0,0,0,0,0
+522110,"Commercial Banking",0,0,0,0,0
+522130,"Credit Unions",0,0,0,0,0
+522180,"Savings Institutions and Other Depository Credit Intermediation",0,0,0,0,0
+522210,"Credit Card Issuing",0,0,0,0,0
+522220,"Sales Financing",0,0,0,0,0
+522291,"Consumer Lending",0,0,0,0,0
+522292,"Real Estate Credit",0,0,0,0,0
+522299,"International, Secondary Market, and All Other Nondepository Credit Intermediation",0,0,0,0,0
+522310,"Mortgage and Nonmortgage Loan Brokers",0,0,0,0,0
+522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",0,0,0,0,0
+522390,"Other Activities Related to Credit Intermediation",0,0,0,0,0
+523150,"Investment Banking and Securities Intermediation",0,0,0,0,0
+523160,"Commodity Contracts Intermediation",0,0,0,0,0
+523210,"Securities and Commodity Exchanges",0,0,0,0,0
+523910,"Miscellaneous Intermediation",0,0,0,0,0
+523940,"Portfolio Management and Investment Advice",0,0,0,0,0
+523991,"Trust, Fiduciary, and Custody Activities",0,0,0,0,0
+523999,"Miscellaneous Financial Investment Activities",0,0,0,0,0
+524113,"Direct Life Insurance Carriers",0,0,0,0,0
+524114,"Direct Health and Medical Insurance Carriers",0,0,0,0,0
+524126,"Direct Property and Casualty Insurance Carriers",0,0,0,0,0
+524127,"Direct Title Insurance Carriers",0,0,0,0,0
+524128,"Other Direct Insurance (except Life, Health, and Medical) Carriers",0,0,0,0,0
+524130,"Reinsurance Carriers",0,0,0,0,734.619421654
+524210,"Insurance Agencies and Brokerages",0,0,0,0,0
+524291,"Claims Adjusting",0,0,0,0,0
+524292,"Pharmacy Benefit Management and Other Third Party Administration of Insurance and Pension Funds",0,0,0,0,0
+524298,"All Other Insurance Related Activities",0,0,0,0,0
+525110,"Pension Funds",0,0,0,0,0
+525120,"Health and Welfare Funds",0,0,0,0,0
+525190,"Other Insurance Funds",0,0,0,0,0
+525910,"Open-End Investment Funds",0,0,0,0,0
+525920,"Trusts, Estates, and Agency Accounts",0,0,0,0,0
+525990,"Other Financial Vehicles",0,0,0,0,0
+531110,"Lessors of Residential Buildings and Dwellings",2.10962693323,0.0910726443387,0.0451177582094,57142.4204165,555745.772383
+531120,"Lessors of Nonresidential Buildings (except Miniwarehouses)",0.0734262500934,-0.023155781995,-0.239752482882,59353.0682037,6056.09465023
+531130,"Lessors of Miniwarehouses and Self-Storage Units",0.265231572187,-0.00924905365605,-0.0336965628362,38327.0473098,11074.8260712
+531190,"Lessors of Other Real Estate Property",0.22282067045,0.000223725507934,0.00100506998419,38659.9102444,9630.4957679
+531210,"Offices of Real Estate Agents and Brokers",1.8328859519,0.121026364977,0.070698768697,63663.8401399,313283.560264
+531311,"Residential Property Managers",0.466833342951,0.0174313387476,0.0387878527122,48070.3088685,22695.1428739
+531312,"Nonresidential Property Managers",0.509294285869,0.0208002198376,0.0425802917252,68832.7877872,34560.3232418
+531320,"Offices of Real Estate Appraisers",0.501210946209,0.0186393359171,0.0386250154787,57469.7048315,30071.9120353
+531390,"Other Activities Related to Real Estate",0.582085844866,0.0228746978845,0.0409052966987,80098.360695,54106.1214039
+532111,"Passenger Car Rental",0.376718469149,0.01454136246,0.0401498664367,45139.9416604,16556.2099384
+532112,"Passenger Car Leasing",0.134048593764,0.0154509679013,0.130280583519,113861.452896,13578.0870514
+532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",0.367181191263,0.00972048197874,0.0271931480195,54968.9203377,19886.8622205
+532210,"Consumer Electronics and Appliances Rental",0.232027071888,-0.00481379895356,-0.0203250348492,130063.608059,52965.3355532
+532281,"Formal Wear and Costume Rental",0.103589566662,0.00745804380882,0.0775816671521,22468.1264537,2159.89521165
+532282,"Video Tape and Disc Rental",0.0486664078071,0.00410671905665,0.0921622024706,20302.928224,904.692162382
+532283,"Home Health Equipment Rental",0.347896441858,0.00918927351333,0.0271304370624,60425.9210712,20682.5362425
+532284,"Recreational Goods Rental",0.317925868765,0.00875318340552,0.028311632366,28673.1839962,9062.94572113
+532289,"All Other Consumer Goods Rental",0.231489771411,0.00536023728709,0.0237042777621,37000.504562,9093.10310002
+532310,"General Rental Centers",0.335722588564,0.00886294692786,0.0271154520132,52668.2148392,17671.2696457
+532411,"Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing",0.0258984144205,0.00626165746118,0.318874316882,172500.305192,4893.17048162
+532412,"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing",0.445584931007,0.0169234381933,0.0394797257905,94185.0072972,45590.2330096
+532420,"Office Machinery and Equipment Rental and Leasing",0,0,0,0,0
+532490,"Other Commercial and Industrial Machinery and Equipment Rental and Leasing",0.317804818689,0.00893366343563,0.0289235925197,87475.1390117,42959.9103669
+533110,"Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)",0.139170200466,0.0111685648984,0.0872532983568,104864.330466,15571.0312482
+541110,"Offices of Lawyers",2.56143888684,0.183820085619,0.0773126817152,85683.7990742,220084.54072
+541191,"Title Abstract and Settlement Offices",0.004145730546,0.00263385541947,1.74211174802,108085.80257,167.150486724
+541199,"All Other Legal Services",0.00294870631991,1.48327152768E-5,0.00505567630907,54297.7933852,194.255271411
+541211,"Offices of Certified Public Accountants",1.23122266222,0.110970371976,0.0990583754591,69156.6130166,86300.1871448
+541213,"Tax Preparation Services",4.50052615433,0.165292367632,0.0381276710241,56767.1415157,276553.353756
+541214,"Payroll Services",0.0520801300277,0.000639990172874,0.0124414547604,41528.6815444,2260.13954183
+541219,"Other Accounting Services",0.218428518633,0.00254806557323,0.0118031324148,52113.8067137,13958.657615
+541310,"Architectural Services",0.348514494995,0.0217995889016,0.0667235822272,76898.4472852,26752.73011
+541320,"Landscape Architectural Services",0.164957522214,-0.00876218594037,-0.0504386406901,46743.3273112,8484.38081089
+541330,"Engineering Services",0.500816675859,0.0299659469642,0.0636421377845,90112.8144007,47370.3843848
+541340,"Drafting Services",0.0521179588813,0.00255010004617,0.0514466451869,49606.4740349,3089.35676452
+541350,"Building Inspection Services",0.0501772025087,-0.00216944921779,-0.0414438965288,58647.9657631,3470.38999078
+541360,"Geophysical Surveying and Mapping Services",0,0,0,0,0
+541370,"Surveying and Mapping (except Geophysical) Services",0.187428614548,0.00957750853386,0.0538512733967,57197.9823267,11147.4128653
+541380,"Testing Laboratories",0.293758766451,0.0225269051767,0.0830540522446,82431.6984933,23738.6326984
+541410,"Interior Design Services",0.100834085717,0.0102586528374,0.113260875618,40830.0718095,4090.2162006
+541420,"Industrial Design Services",0.0238151664024,0.00330052335734,0.16088621918,13819.0460108,418.023053341
+541430,"Graphic Design Services",0.154272884325,0.0119419957652,0.0839030507437,80953.7284199,13038.374201
+541490,"Other Specialized Design Services",0.0573356016856,-0.00489936642743,-0.0787236914549,16816.2885917,1397.91302594
+541511,"Custom Computer Programming Services",0.308851498976,0.0171126599,0.0586574621131,130687.467628,52218.4927394
+541512,"Computer Systems Design Services",0.314013674177,0.0210598700577,0.0718880238508,133408.515572,48369.9269788
+541513,"Computer Facilities Management Services",0.159081285647,0.0130016245414,0.0890036603522,69731.1972136,13467.0637189
+541519,"Other Computer Related Services",0.208917934908,0.0100702826618,0.050643206234,240253.545368,60465.8237657
+541611,"Administrative Management and General Management Consulting Services",0.278344503677,0.01812115995,0.0696369499002,92483.8939003,29587.5399582
+541612,"Human Resources Consulting Services",0.135476870711,-0.00533327858726,-0.0378756688622,94081.8049686,15541.8907714
+541613,"Marketing Consulting Services",0.294320841098,0.0153158842124,0.0548946670459,127501.596241,45531.7118457
+541614,"Process, Physical Distribution, and Logistics Consulting Services",0.0255519307535,-0.00464967618457,-0.153954595665,59158.5242433,2387.15111317
+541618,"Other Management Consulting Services",0.167753980452,0.0040346917052,0.0246439606237,108546.363751,22754.13656
+541620,"Environmental Consulting Services",0.0611589172028,0.00141972297656,0.0237653519594,86336.9761017,6912.36302035
+541690,"Other Scientific and Technical Consulting Services",0.247531331322,0.0209528942417,0.0924752351185,120946.642707,35311.952675
+541713,"Research and Development in Nanotechnology",0.0373024196324,-0.00356355432906,-0.0872010130587,180637.297035,9349.85993767
+541714,"Research and Development in Biotechnology (except Nanobiotechnology)",0.110763608573,0.0114203707383,0.114958712714,201354.926895,37257.1798593
+541715,"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",0.288171431685,0.0234667132149,0.0886524174956,111115.470563,30118.4427251
+541720,"Research and Development in the Social Sciences and Humanities",0.0170680849348,0.000801917132108,0.0492996962675,66851.4264807,1910.90896878
+541810,"Advertising Agencies",0.221458419827,0.00545459205896,0.0252522935141,89137.7007051,26200.5532908
+541820,"Public Relations Agencies",0.00585135137078,0.000243555116869,0.0434315203051,167692.016165,1089.0723969
+541830,"Media Buying Agencies",0,0,0,0,0
+541840,"Media Representatives",0.0602277739914,-0.0115934567711,-0.161421026178,70750.225246,7179.6691244
+541850,"Outdoor Advertising",0,0,0,0,0
+541860,"Direct Mail Advertising",0,0,0,0,0
+541870,"Advertising Material Distribution Services",0.113433001795,0.0174285457134,0.181538924596,72065.5067644,8370.08845077
+541890,"Other Services Related to Advertising",0.270737050927,0.0106427882853,0.0409189659827,40416.2274309,15855.3842623
+541910,"Marketing Research and Public Opinion Polling",0.00878713624525,-0.00227946264394,-0.205976801614,109315.717653,1627.31974903
+541921,"Photography Studios, Portrait",0.15565538722,0.0016591606272,0.0107740342989,38358.5315449,6417.54050265
+541922,"Commercial Photography",0.115832759587,0.0150201094636,0.14899032458,41536.4136521,4559.96508663
+541930,"Translation and Interpretation Services",0.189015878028,0.0232192553896,0.140046612652,73777.0261297,13320.4190777
+541940,"Veterinary Services",0.302367663478,0.0175812143543,0.0617347293329,53045.6074916,15326.8629833
+541990,"All Other Professional, Scientific, and Technical Services",0.267020385044,0.0166131637123,0.0663445871247,74691.1194735,28350.2864008
+551111,"Offices of Bank Holding Companies",0,0,0,0,0
+551112,"Offices of Other Holding Companies",0,0,0,0,0
+551114,"Corporate, Subsidiary, and Regional Managing Offices",0,0,0,0,0
+561110,"Office Administrative Services",1.50181426654,0.135457854647,0.0991380092832,120406.775113,183133.638424
+561210,"Facilities Support Services",1.49783929421,-0.233925095277,-0.135079053881,50569.5168925,96683.990514
+561311,"Employment Placement Agencies",0.366226368972,-0.0523818757255,-0.125133406685,85146.3319243,43314.750771
+561312,"Executive Search Services",0.21200330579,-0.00506378244254,-0.0233281907624,102461.121641,29752.5201517
+561320,"Temporary Help Services",0.168004589618,0.00505393252914,0.0310151098463,40458.7577256,8609.27756865
+561330,"Professional Employer Organizations",0.370350741329,0.00384281384507,0.010484940589,49755.1781133,19410.3045524
+561410,"Document Preparation Services",0.612502586149,-0.00226580631327,-0.00368562590571,21753.3193614,15169.434156
+561421,"Telephone Answering Services",0.390867012805,-0.0553818826182,-0.124105366279,27952.9114609,14860.5387892
+561422,"Telemarketing Bureaus and Other Contact Centers",0.869039200063,-0.127744967844,-0.128157099558,53569.2941158,55913.1206905
+561431,"Private Mail Centers",0.541189464173,0.0162851941211,0.0310250745712,25931.3815219,13662.4158641
+561439,"Other Business Service Centers (including Copy Shops)",0.677521220844,-0.00897464662083,-0.0130731254858,81585.6593636,58488.9919466
+561440,"Collection Agencies",0.695786613334,-0.0234802915464,-0.0326447545231,54812.000702,40601.8833312
+561450,"Credit Bureaus",0,0,0,0,0
+561491,"Repossession Services",0.271224348629,-0.0265516443731,-0.0891665043425,14401.3484584,4418.86486943
+561492,"Court Reporting and Stenotype Services",0.166198165943,-0.0169739723559,-0.0926667806224,19339.9044335,4630.97240543
+561499,"All Other Business Support Services",0.521468917114,-0.00605189866431,-0.0114723409642,46862.3260638,30868.617228
+561510,"Travel Agencies",0.462680053623,-0.00409394397424,-0.00877071986724,57524.1216231,38960.9016331
+561520,"Tour Operators",0.322529563352,0.0372199678854,0.130454665657,26853.5629182,8784.1433894
+561591,"Convention and Visitors Bureaus",0,0,0,0,0
+561599,"All Other Travel Arrangement and Reservation Services",0.250721788763,0.009302007531,0.0385304281344,52096.1120438,13131.78917
+561611,"Investigation Services",0.457665478151,0.0174384932551,0.0396125041249,38745.0073471,17226.6793852
+561612,"Security Guards and Patrol Services",0.500443600461,0.0107744882745,0.022003610206,33775.1883948,17772.4465497
+561613,"Armored Car Services",0,0,0,0,0
+561621,"Security Systems Services (except Locksmiths)",0.696846573451,-0.0339874424033,-0.0465050088885,47580.6320699,39458.9767226
+561622,Locksmiths,0.108899483115,-0.0205509788826,-0.158755546837,29468.4332559,4017.99199339
+561710,"Exterminating and Pest Control Services",0.355199878681,0.00788519305142,0.0227033102189,50837.9358447,18863.0012308
+561720,"Janitorial Services",0.519293378021,-0.00380199500094,-0.00726826348889,29398.7907,15727.8666508
+561730,"Landscaping Services",0.283576736481,-0.0042454257501,-0.0147501697479,47441.633903,13710.0083746
+561740,"Carpet and Upholstery Cleaning Services",0.252751182666,-0.00210350686661,-0.00825374989356,47524.2520016,12210.0971015
+561790,"Other Services to Buildings and Dwellings",0.391889021636,0.000664048538093,0.00169735723371,41331.9095898,16175.59388
+561910,"Packaging and Labeling Services",0,0,0,0,0
+561920,"Convention and Trade Show Organizers",1.64273763641,-0.0281042749905,-0.0168204273538,35085.2322498,134956.638749
+561990,"All Other Support Services",1.97951146381,-0.0164465258377,-0.00823991583138,54296.6721836,166501.762227
+562111,"Solid Waste Collection",0.434375969358,0.0102564084338,0.02418282338,62466.1274969,27410.8105764
+562112,"Hazardous Waste Collection",0.198177319803,0.0180094810917,0.0999594667981,88889.9638591,16023.1868472
+562119,"Other Waste Collection",0.191075153161,-0.00374527979542,-0.0192242658461,22128.7191525,4406.42227723
+562211,"Hazardous Waste Treatment and Disposal",0,0,0,0,0
+562212,"Solid Waste Landfill",0,0,0,0,0
+562213,"Solid Waste Combustors and Incinerators",0,0,0,0,0
+562219,"Other Nonhazardous Waste Treatment and Disposal",0.810301254426,-0.0240360106131,-0.0288085066079,47886.1713768,40637.4423534
+562910,"Remediation Services",0.576264454031,-0.00399875393209,-0.00689127602304,64364.4866233,38713.9374013
+562920,"Materials Recovery Facilities",0.372602480523,0.0204549542826,0.0580863210968,41566.5142532,17274.0015837
+562991,"Septic Tank and Related Services",0.518485928034,-0.00686234945323,-0.0130624763558,56046.1313112,30003.2628038
+562998,"All Other Miscellaneous Waste Management Services",0,0,0,0,0
+611110,"Elementary and Secondary Schools",1.23920934681,0.0449576347648,0.0376450243374,35013.8808478,42776.2020469
+611210,"Junior Colleges",0.502515586226,0.0717452223279,0.166550970867,126679.218765,60133.0738076
+611310,"Colleges, Universities, and Professional Schools",0.853281461675,0.0368857033568,0.0451811550721,39767.9706694,34450.5041694
+611410,"Business and Secretarial Schools",0.00446293269011,0.000266664922611,0.0635481188012,14927.3686308,364.229769619
+611420,"Computer Training",0.0725261194799,0.0110594316699,0.179925616035,205476.550711,17264.520161
+611430,"Professional and Management Development Training",0.144192215947,0.00835417643736,0.0615010086094,58066.8573905,11923.8544669
+611511,"Cosmetology and Barber Schools",0.275928595776,-0.02138168535,-0.0719170735333,12486.9050593,3795.95428683
+611512,"Flight Training",0.999463357903,0.0536863735775,0.0567643053989,41840.2850987,42701.6324413
+611513,"Apprenticeship Training",0,0,0,0,0
+611519,"Other Technical and Trade Schools",0.510704436056,0.0155794454545,0.031465681899,46786.0710649,24584.7175233
+611610,"Fine Arts Schools",0.344121735932,0.0108496896301,0.0325550544984,17690.3287233,6308.290227
+611620,"Sports and Recreation Instruction",1.91629926671,0.209871955095,0.122989097553,15516.0196766,30790.6822738
+611630,"Language Schools",0.0959995176044,0.00360786558225,0.0390496922967,14412.3670631,1362.60127264
+611691,"Exam Preparation and Tutoring",0.610821414114,0.053912639697,0.0968069496721,17981.1116014,11860.6424732
+611692,"Automobile Driving Schools",0.219601345092,0.00742761448638,0.0350072295245,26697.170488,5664.46575243
+611699,"All Other Miscellaneous Schools and Instruction",3.7983920319,0.368893125827,0.107564730572,24985.8339166,103496.519159
+611710,"Educational Support Services",0.449101785496,0.0237483358307,0.0558320047701,29704.8164683,19130.8162572
+621111,"Offices of Physicians (except Mental Health Specialists)",3.42114560931,0.134826099487,0.041026473258,143343.57163,474039.958304
+621112,"Offices of Physicians, Mental Health Specialists",0.943658342043,0.0350235441022,0.0385452375163,35081.1070751,33442.8213831
+621210,"Offices of Dentists",0.131084525714,0.00982948609956,0.0810645572411,64331.5943665,7846.79106886
+621310,"Offices of Chiropractors",0.259862952541,0.0150195720224,0.0613435903009,45759.995669,11266.0833575
+621320,"Offices of Optometrists",0.370535692394,0.01884404821,0.0535811655512,46884.6232416,16717.0446504
+621330,"Offices of Mental Health Practitioners (except Physicians)",0.403545148205,0.0177716254545,0.0460675095787,44499.0348703,17599.2784602
+621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",0.351684554073,0.0139608774232,0.0413381660467,54848.9444385,18796.3146019
+621391,"Offices of Podiatrists",0.289913789682,0.0111121813132,0.0398569483805,49517.1944448,14898.2411723
+621399,"Offices of All Other Miscellaneous Health Practitioners",0.161377034979,0.00575822101935,0.037002087812,46641.9512675,7730.59635351
+621410,"Family Planning Centers",0,0,0,0,0
+621420,"Outpatient Mental Health and Substance Abuse Centers",0.0729030142529,0.00461907029571,0.0676450425682,44202.5689539,3163.9016665
+621491,"HMO Medical Centers",0,0,0,0,0
+621492,"Kidney Dialysis Centers",0.0714358578069,0.00447507492908,0.0668312814868,120465.624305,8154.20422122
+621493,"Freestanding Ambulatory Surgical and Emergency Centers",0.0722523786015,0.00440868123307,0.0649829152019,74465.177581,5058.47964174
+621498,"All Other Outpatient Care Centers",0.0740359435067,0.00425511323685,0.0609782546352,79244.2902658,5768.10639285
+621511,"Medical Laboratories",0.0743443682893,0.00396223707697,0.0562960656167,78253.0135044,6172.03304409
+621512,"Diagnostic Imaging Centers",0.070846204251,0.00341602403456,0.0506601646858,200734.216107,13993.7327441
+621610,"Home Health Care Services",0.0462080838316,0.0013109474759,0.0291989107169,39143.0281785,1817.26145772
+621910,"Ambulance Services",0.011855057828,0.000525667463471,0.0463985657267,178946.196755,2200.06304126
+621991,"Blood and Organ Banks",0.0115654329416,0.000519395986846,0.0470210256378,58276.9901392,665.854010619
+621999,"All Other Miscellaneous Ambulatory Health Care Services",0.0230923270642,0.00173394588356,0.08118339442,62910.8788706,1757.57055311
+622110,"General Medical and Surgical Hospitals",0.0313386088373,0.00175214115502,0.0592210321907,75791.3181757,2253.10936383
+622210,"Psychiatric and Substance Abuse Hospitals",0,0,0,0,0
+622310,"Specialty (except Psychiatric and Substance Abuse) Hospitals",0.0355652861922,0.0016730448971,0.0493636547236,70201.0860882,2393.69845597
+623110,"Nursing Care Facilities (Skilled Nursing Facilities)",0.036588560357,0.00144255533244,0.0410446459401,66579.2756099,2357.23568094
+623210,"Residential Intellectual and Developmental Disability Facilities",0.0348481569337,0.00102488017338,0.0303010314654,43451.2432091,1469.66342464
+623220,"Residential Mental Health and Substance Abuse Facilities",0.0301648390496,0.00015358649233,0.00511763019677,50823.2353049,1550.02297385
+623311,"Continuing Care Retirement Communities",0.0343348651128,-0.0390660658644,-0.53222847918,41543.2243627,3066.90222554
+623312,"Assisted Living Facilities for the Elderly",0.00903570105219,-0.00195513282873,-0.17788757886,47141.9686396,521.369515813
+623990,"Other Residential Care Facilities",0.00891937510494,0.000323556363694,0.0376411338388,56102.1713204,489.407097192
+624110,"Child and Youth Services",0.0724856291447,-0.0152408076751,-0.173731069306,36906.9063273,3603.52252262
+624120,"Services for the Elderly and Persons with Disabilities",0.0160540659307,0.000678045133382,0.0440975686961,35506.7312448,550.888626434
+624190,"Other Individual and Family Services",0.0180953494483,0.000450867085903,0.0255528655725,42955.5550982,811.581776301
+624210,"Community Food Services",0.0196911002195,-0.0168445498662,-0.461044208238,48178.5584556,1817.49761719
+624221,"Temporary Shelters",0.165468581143,-0.000622300257068,-0.00374674546744,36908.1984416,6144.39960648
+624229,"Other Community Housing Services",0.194466378452,0.00799966300627,0.0429012919927,66392.0236256,13051.8635102
+624230,"Emergency and Other Relief Services",0,0,0,0,0
+624310,"Vocational Rehabilitation Services",0.278626300473,0.00821530233828,0.0303807995789,24942.876265,6875.61575116
+624410,"Child Day Care Services",0.153886823592,0.0033804654805,0.0224606157701,31046.7828049,4679.25704396
+711110,"Theater Companies and Dinner Theaters",1.28908640493,0.000853507343737,0.000662541179732,14523.6808911,20305.594645
+711120,"Dance Companies",0,0,0,0,0
+711130,"Musical Groups and Artists",0.201235545937,0.00519070148236,0.0264771129116,26784.2285095,5566.33131521
+711190,"Other Performing Arts Companies",0,0,0,0,0
+711211,"Sports Teams and Clubs",0.427092161699,0.0835084226772,0.243051149379,27377.7873789,9551.33509364
+711212,Racetracks,0.0455440431583,0.000676332101821,0.0150739158717,13160.0931131,590.463351871
+711219,"Other Spectator Sports",4.04403458364E-5,-5.68161711132E-6,-0.123186801866,90797.6181545,9.56341765834
+711310,"Promoters of Performing Arts, Sports, and Similar Events with Facilities",0.00426647855926,-0.00012531147075,-0.0285331197287,20623.9330735,303.972059727
+711320,"Promoters of Performing Arts, Sports, and Similar Events without Facilities",0.00822538918777,-0.000927970533819,-0.101380319581,31893.9837942,2334.95404091
+711410,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",0.00509779023651,-0.000867122621505,-0.145370543065,128881.20988,868.876601384
+711510,"Independent Artists, Writers, and Performers",7.91059716117,0.389952587081,0.0518509528324,33328.8599756,534372.991414
+712110,Museums,0.0937944298349,-0.030727110359,-0.246761406189,25520.6611358,34504.5889482
+712120,"Historical Sites",0,0,0,0,0
+712130,"Zoos and Botanical Gardens",0.407689515146,0.0972687640774,0.313344915707,22981.7762875,18557.2726843
+712190,"Nature Parks and Other Similar Institutions",0,0,0,0,0
+713110,"Amusement and Theme Parks",0.00330111114983,6.91764922441E-5,0.0214040503825,26511.3991939,87.3020169063
+713120,"Amusement Arcades",0.0122254683285,0.00759967042837,1.64288855511,19021.789145,88.4908901165
+713210,"Casinos (except Casino Hotels)",0,0,0,0,0
+713290,"Other Gambling Industries",1.65742865393,0.150844202912,0.10012329731,47680.311787,78127.1189289
+713910,"Golf Courses and Country Clubs",93.6239210861,3.94260461792,0.0439623856248,57179.4818905,5233857.78645
+713920,"Skiing Facilities",3.20395047077,0.30376006391,0.104737972787,34878.9670322,101365.808269
+713930,Marinas,0.0011975954678,-1.04696587223E-5,-0.00866646879582,44901.0132283,54.2433623736
+713940,"Fitness and Recreational Sports Centers",3.2622368703,0.141527573868,0.045351091827,21297.8113145,67320.8761554
+713950,"Bowling Centers",0.000148758359952,-7.8874925737E-5,-0.346499965935,27811.2068564,6.33079729032
+713990,"All Other Amusement and Recreation Industries",7.80561277585,0.30561607525,0.0407488279596,27508.2552334,333576.362645
+721110,"Hotels (except Casino Hotels) and Motels",14.3738344266,0.423032935803,0.0303231994293,40248.780361,626844.677487
+721120,"Casino Hotels",0,0,0,0,0
+721191,"Bed-and-Breakfast Inns",3.02623547365,0.300955111082,0.11043088088,14447.484923,179464.31196
+721199,"All Other Traveler Accommodation",0.179832162226,-0.0070533971135,-0.0377417984483,11149.8073954,16200.9328558
+721211,"RV (Recreational Vehicle) Parks and Campgrounds",0.239809889066,-0.0251354709193,-0.0948703948646,18836.1294829,5085.24921684
+721214,"Recreational and Vacation Camps (except Campgrounds)",0.403577216212,0.0192379136359,0.0500545052431,45121.8925447,17374.53048
+721310,"Rooming and Boarding Houses, Dormitories, and Workers' Camps",0.112272247494,0.00194257167126,0.0176069734346,7233.02003775,9864.9971548
+722310,"Food Service Contractors",0.519372982422,0.0283435380674,0.057722685255,27636.7307181,14460.3963953
+722320,Caterers,0.516024232803,0.0243998170866,0.049631011615,12682.4647531,6341.44939937
+722330,"Mobile Food Services",0.436254467891,0.0157641820123,0.0374900028412,25602.1726014,10915.5808749
+722410,"Drinking Places (Alcoholic Beverages)",0.361377823077,0.0119911963506,0.0343207078731,21037.1001126,7376.63179835
+722511,"Full-Service Restaurants",2.05800368943,-0.0104561048592,-0.00505501962767,29850.1317055,64128.8566538
+722513,"Limited-Service Restaurants",0.223020842846,0.0164776472642,0.0797782140328,23221.4664969,4815.82198896
+722514,"Cafeterias, Grill Buffets, and Buffets",0,0,0,0,0
+722515,"Snack and Nonalcoholic Beverage Bars",0.221394607098,0.0159980898278,0.0778888076605,27912.6193993,10773.5564924
+811111,"General Automotive Repair",1.52544097247E-5,-1.95397605004E-6,-0.113547899007,58488.4715306,1.01465925163
+811114,"Specialized Automotive Repair",1.54741368306E-5,3.94366077563E-6,0.342020637901,56128.7740156,0.653435346459
+811121,"Automotive Body, Paint, and Interior Repair and Maintenance",1.36189099322E-5,-4.61499677393E-5,-0.772140443943,68622.9388008,4.13492894528
+811122,"Automotive Glass Replacement Shops",1.63748424811E-5,-0.000103860016528,-0.863809525656,60077.9290166,7.33369977091
+811191,"Automotive Oil Change and Lubrication Shops",2.06203280016E-5,-0.000114914708624,-0.847859796884,55997.0346308,7.81495468838
+811192,"Car Washes",2.20925766037E-5,-0.000112728546293,-0.836134159625,35671.549674,4.84258566506
+811198,"All Other Automotive Repair and Maintenance",0.39546073727,0.00350559536968,0.00894386881286,34292.0008069,35062.8778333
+811210,"Electronic and Precision Equipment Repair and Maintenance",0.290214522417,-0.00532682278085,-0.0180239511913,21144.1383047,25221.5712581
+811310,"Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance",2.04093331604E-5,-8.02993704856E-5,-0.797342906606,65381.3808881,6.99934567787
+811411,"Home and Garden Equipment Repair and Maintenance",2.09762137631E-5,-6.66322745857E-5,-0.760568705631,31501.521049,2.78768873943
+811412,"Appliance Repair and Maintenance",2.04461437214E-5,-6.33070899374E-5,-0.755876366462,39993.8985683,3.51016381228
+811420,"Reupholstery and Furniture Repair",4.15785074247E-5,-6.23521166073E-5,-0.599939788566,45252.9604765,4.70316876104
+811430,"Footwear and Leather Goods Repair",0,0,0,0,0
+811490,"Other Personal and Household Goods Repair and Maintenance",9.39071460576E-5,-2.26512250379E-5,-0.194333747332,61155.0039068,7.36195650205
+812111,"Barber Shops",0.000118100805455,-4.37392958219E-6,-0.035712913205,39122.6908336,4.80560676101
+812112,"Beauty Salons",0.463067916293,0.0122050767582,0.02707048727,23259.4928924,19083.6404018
+812113,"Nail Salons",0.000102476497364,3.81369550038E-6,0.0386538333428,34569.2239564,3.41685552155
+812191,"Diet and Weight Reducing Centers",8.38221545454E-5,6.37449339074E-6,0.0823071129032,24030.8090523,2.04671603883
+812199,"Other Personal Care Services",8.13071033541E-5,5.77233449871E-6,0.0764195692418,35957.8026597,2.85874260859
+812210,"Funeral Homes and Funeral Services",7.98745248342E-5,3.81606276252E-6,0.0501727573576,65792.4408466,5.15046622985
+812220,"Cemeteries and Crematories",0.0655457827704,0.00664240908678,0.112767888686,118762.969501,6995.67576382
+812310,"Coin-Operated Laundries and Drycleaners",6.68047151996E-5,-1.10903113145E-6,-0.0163299949034,19319.4775192,1.31771997648
+812320,"Drycleaning and Laundry Services (except Coin-Operated)",6.98149923756E-5,8.55945215959E-6,0.139733518461,25469.6166582,1.56312994321
+812331,"Linen Supply",0,0,0,0,0
+812332,"Industrial Launderers",0,0,0,0,0
+812910,"Pet Care (except Veterinary) Services",11.5506019318,0.965353933052,0.091198045919,36364.3850935,466531.175765
+812921,"Photofinishing Laboratories (except One-Hour)",0,0,0,0,0
+812922,"One-Hour Photofinishing",0,0,0,0,0
+812930,"Parking Lots and Garages",0,0,0,0,0
+812990,"All Other Personal Services",6.84712104745,-0.292360946513,-0.0409498821848,36264.4203386,746363.734505
+813110,"Religious Organizations",4.27061185359,0.0905690359692,0.0216670115405,25053.7408947,107600.883148
+813211,"Grantmaking Foundations",0.00017892359226,-7.80889861487E-5,-0.303833324549,123519.609496,38.3287072119
+813212,"Voluntary Health Organizations",0.193566779859,-0.053881876203,-0.21774972255,67027.3658687,17903.0793377
+813219,"Other Grantmaking and Giving Services",0.287257685287,-0.0363403836412,-0.112300990428,73166.3658365,25367.5788405
+813311,"Human Rights Organizations",0.313843945912,0.0105406599414,0.0347528709019,66928.3035753,23851.0837777
+813312,"Environment, Conservation and Wildlife Organizations",0.193850621902,-0.0381821041448,-0.164554822914,108632.699379,27570.5651248
+813319,"Other Social Advocacy Organizations",0.549904937316,-0.00215169960622,-0.0038976066264,56747.0690311,37181.4400145
+813410,"Civic and Social Organizations",0.771364116679,0.0196630228789,0.0261580341456,27313.391465,21681.666995
+813910,"Business Associations",0.653594689264,0.00354177392061,0.00544843940703,71977.9429585,50284.3260478
+813920,"Professional Organizations",0.227548374109,-0.0246150191151,-0.0976153548714,59200.3929568,19822.4005253
+813930,"Labor Unions and Similar Labor Organizations",0.347535693271,-0.0239711721708,-0.0645241700776,13556.512279,5589.20393275
+813940,"Political Organizations",0,0,0,0,0
+813990,"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)",0.433888500475,-0.0074642163238,-0.0169121340816,42507.0766961,20522.1628907
+814110,"Private Households",3.3044930538,0.132198933973,0.0416729751339,17138.5100946,55657.032507
+901149,"US Postal Service",4.3621615263,-0.858194284792,-0.164393829817,82031.3782315,428232.982043
+901199,"Federal Government, Civilian, Excluding Postal Service",19.9538924203,-0.435948042653,-0.0213806500078,127753.949878,2708686.3304
+901200,"Federal Government, Military",0,0,0,0,0
+902611,"Elementary and Secondary Schools (State Government)",0,0,0,0,0
+902612,"Colleges, Universities, and Professional Schools (State Government)",0,0,0,0,0
+902619,"All Other Schools and Educational Support Services (State Government)",0,0,0,0,0
+902622,"Hospitals (State Government)",0,0,0,0,0
+902999,"State Government, Excluding Education and Hospitals",2.79660056304,0.0209077125233,0.0075324301532,72441.0745264,201286.473524
+903611,"Elementary and Secondary Schools (Local Government)",49.2138475528,1.1397361574,0.0237078985824,62795.9590088,3021743.27409
+903612,"Colleges, Universities, and Professional Schools (Local Government)",3.54594260805,-0.237806925317,-0.062849542027,59862.0684115,226503.0775
+903619,"All Other Schools and Educational Support Services (Local Government)",0,0,0,0,0
+903622,"Hospitals (Local Government)",0.548906681366,-0.2837986114,-0.340815188597,101858.659306,84818.2450669
+903999,"Local Government, Excluding Education and Hospitals",109.936677382,1.15140393219,0.0105841893455,75549.4090787,8228481.73548
+999999,"Unclassified Industry",0,0,0,0,
