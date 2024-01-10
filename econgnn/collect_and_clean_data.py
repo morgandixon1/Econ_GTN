@@ -20,7 +20,7 @@ from geopy.geocoders import Nominatim
 import numpy as np
 import time  # Import the time module at the top of your script if not already done
 
-openai.api_key = "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"
+openai.api_key = "----"
 
 class GNNProcessor:
     def __init__(self, api_key, radius, business_type, limit, filename):
@@ -34,10 +34,10 @@ class GNNProcessor:
         print(f"Pandas version: {pd.__version__}")  # Debugging Line 1: Print Pandas version
 
     def load_existing_data(self):
-        print("Trying to read from: ", os.path.abspath("/Users/morgandixon/Desktop/businesses.csv"))  # Debugging line
+        print("Trying to read from: ", os.path.abspath("/Users/Desktop/businesses.csv"))  # Debugging line
         fieldnames = ['Name', 'Website', 'Search Keywords', 'Street Address', 'Latitude', 'Longitude', 'Number of Reviews', 'Node Neighborhoods', 'EGRP']
         try:
-            self.existing_data = pd.read_csv("/Users/morgandixon/Desktop/businesses.csv")  # Hardcoding the file path
+            self.existing_data = pd.read_csv("/Users/Desktop/businesses.csv")  # Hardcoding the file path
         except pd.errors.ParserError:
             print("Error reading existing CSV. Creating a new one.")
             self.existing_data = pd.DataFrame(columns=fieldnames)
@@ -279,7 +279,7 @@ class DataDistribution:
         if not self.geojson_loaded:  # Check the flag here
             try:
                 print("Attempting to load GeoJSON file...")
-                self.gdf = gpd.read_file("/Users/morgandixon/Desktop/zipcodeboundries.geojson")
+                self.gdf = gpd.read_file("/Users--.geojson")
                 print("Successfully loaded GeoJSON file.")
                 self.geojson_loaded = True  # Update the flag when successfully loaded
             except Exception as e:
@@ -451,7 +451,7 @@ if __name__ == "__main__":
             radius=1000,
             business_type='',  # Set to empty string to fetch all types of businesses
             limit=2500,  # You can increase this limit
-            filename="/Users/morgandixon/Desktop/businesses.csv"
+            filename="/Users/Desktop/businesses.csv"
         )
         prompt_interval = 500  # Number of businesses to fetch before prompting the user
         next_prompt = prompt_interval  # Initialize next prompt point
@@ -476,20 +476,20 @@ if __name__ == "__main__":
 
     elif user_choice == '2':
         associate_egrp = AssociateEGRP(
-            "/Users/morgandixon/Desktop/businesses3.csv", 
-            "/Users/morgandixon/Downloads/industrytable4.csv"
+            "/Users/Desktop/businesses3.csv", 
+            "/Users/Downloads/industrytable4.csv"
         )
         associate_egrp.associate_egrp_data()
 
     elif user_choice == '3':
-        business_file_path = "/Users/morgandixon/Desktop/businesses3.csv"
+        business_file_path = "/Users/Desktop/businesses3.csv"
         dd = DataDistribution()
         # dd.load_geojson()  # Comment out or remove this line
-        business_dfs = dd.dfforeachzip("/Users/morgandixon/Desktop/businesses3.csv")
+        business_dfs = dd.dfforeachzip("/Users/Desktop/businesses3.csv")
         #print("Loaded business data for ZIP codes:", business_dfs.keys())
         industry_dfs = dd.dfforindustrytable()
         #print("Loaded industry data for ZIP codes:", industry_dfs.keys())
-        adjustment_factor = dd.accuracyadjustments("/Users/morgandixon/Desktop/businesses3.csv")
+        adjustment_factor = dd.accuracyadjustments("/Users/Desktop/businesses3.csv")
         dd.egrpdistribution(business_dfs, industry_dfs, adjustment_factor, business_file_path)
 
     else:
